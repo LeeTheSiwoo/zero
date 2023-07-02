@@ -1,0 +1,7106 @@
+{
+  "data": [
+    {
+      "stt": 0,
+      "name": "ACE",
+      "colorBg": "#b63232",
+      "preview": "https://i.ibb.co/PGPy0GP/Ace.png"
+    },
+    {
+      "stt": 1,
+      "name": "ADAM",
+      "colorBg": "#62c84e",
+      "preview": "https://i.ibb.co/KGx7NFr/Adam.png"
+    },
+    {
+      "stt": 2,
+      "name": "ADNACHIEL",
+      "colorBg": "#4242f2",
+      "preview": "https://i.ibb.co/VJv0vVL/Adnachiel.png"
+    },
+    {
+      "stt": 3,
+      "name": "AI OHTO",
+      "colorBg": "#498ce0",
+      "preview": "https://i.ibb.co/MBr1wxW/Ai-Ohto.png"
+    },
+    {
+      "stt": 4,
+      "name": "AINZ OOAL GOWN",
+      "colorBg": "#9463bf",
+      "preview": "https://i.ibb.co/kJgHq31/Ainz-Ooal-Gown.png"
+    },
+    {
+      "stt": 5,
+      "name": "AKAGI TOWA",
+      "colorBg": "#f78480",
+      "preview": "https://i.ibb.co/cYNYdCp/Akagi-Towa.png"
+    },
+    {
+      "stt": 6,
+      "name": "AKAI SHUICHI",
+      "colorBg": "#805086",
+      "preview": "https://i.ibb.co/tsDzH1g/Akai-Shuichi.png"
+    },
+    {
+      "stt": 7,
+      "name": "AKAKO KOIZUMI",
+      "colorBg": "#5356be",
+      "preview": "https://i.ibb.co/hg58fM4/Akako-Koizumi.png"
+    },
+    {
+      "stt": 8,
+      "name": "AKANE HINO",
+      "colorBg": "#eca748",
+      "preview": "https://i.ibb.co/g6DSyks/Akane-Hino.png"
+    },
+    {
+      "stt": 9,
+      "name": "AKANE INUI",
+      "colorBg": "#ccb89f",
+      "preview": "https://i.ibb.co/yQb7s5n/Akane-Inui.png"
+    },
+    {
+      "stt": 10,
+      "name": "AKAZA",
+      "colorBg": "#df94a7",
+      "preview": "https://i.ibb.co/fX84TCg/Akaza.png"
+    },
+    {
+      "stt": 11,
+      "name": "ALBEDO",
+      "colorBg": "#5d598f",
+      "preview": "https://i.ibb.co/NsysQzq/Albedo.png"
+    },
+    {
+      "stt": 12,
+      "name": "ALICE ZUBERG",
+      "colorBg": "#f75148",
+      "preview": "https://i.ibb.co/RHTthX3/Alice-Zuberg.png"
+    },
+    {
+      "stt": 13,
+      "name": "ALL MIGHT",
+      "colorBg": "#50a5af",
+      "preview": "https://i.ibb.co/F5tSqPL/All-Might.png"
+    },
+    {
+      "stt": 14,
+      "name": "AMAJIKI",
+      "colorBg": "#515480",
+      "preview": "https://i.ibb.co/yqLW07M/Amajiki.png"
+    },
+    {
+      "stt": 15,
+      "name": "AMANOGAWA KIRARA",
+      "colorBg": "#ffc770",
+      "preview": "https://i.ibb.co/Qmrq0Jv/Amanogawa-Kirara.png"
+    },
+    {
+      "stt": 16,
+      "name": "AMATSUKA",
+      "colorBg": "#f28258",
+      "preview": "https://i.ibb.co/tx1SnTB/Amatsuka.png"
+    },
+    {
+      "stt": 17,
+      "name": "AMELIA WATSON",
+      "colorBg": "#ed926e",
+      "preview": "https://i.ibb.co/XSyyVXg/Amelia-Watson.png"
+    },
+    {
+      "stt": 18,
+      "name": "ANGRY",
+      "colorBg": "#58cae2",
+      "preview": "https://i.ibb.co/C66TWyn/Angry.png"
+    },
+    {
+      "stt": 19,
+      "name": "ANKO",
+      "colorBg": "#71a7d4",
+      "preview": "https://i.ibb.co/jHBGnG2/Anko.png"
+    },
+    {
+      "stt": 20,
+      "name": "ANOS",
+      "colorBg": "#57668b",
+      "preview": "https://i.ibb.co/Khsd7jw/Anos.png"
+    },
+    {
+      "stt": 21,
+      "name": "AOI KANZAKI",
+      "colorBg": "#656fcc",
+      "preview": "https://i.ibb.co/7VWgV10/Aoi-Kanzaki.png"
+    },
+    {
+      "stt": 22,
+      "name": "AOKO",
+      "colorBg": "#c773b9",
+      "preview": "https://i.ibb.co/bJ9XFjY/Aoko.png"
+    },
+    {
+      "stt": 23,
+      "name": "AQUA",
+      "colorBg": "#67a3df",
+      "preview": "https://i.ibb.co/hdjJCrH/Aqua.png"
+    },
+    {
+      "stt": 24,
+      "name": "ARCUEID BRUNESTUD",
+      "colorBg": "#f8c67e",
+      "preview": "https://i.ibb.co/2czN8jg/Arcueid-Brunestud.png"
+    },
+    {
+      "stt": 25,
+      "name": "ARIMA KOUSEI",
+      "colorBg": "#5fa9c1",
+      "preview": "https://i.ibb.co/LvMqyL5/Arima-Kousei.png"
+    },
+    {
+      "stt": 26,
+      "name": "ASADA SHINO",
+      "colorBg": "#70cac0",
+      "preview": "https://i.ibb.co/FbX9fB8/Asada-Shino.png"
+    },
+    {
+      "stt": 27,
+      "name": "ASTA",
+      "colorBg": "#413b3b",
+      "preview": "https://i.ibb.co/y0gLSyk/Asta.png"
+    },
+    {
+      "stt": 28,
+      "name": "ASUMA",
+      "colorBg": "#74795a",
+      "preview": "https://i.ibb.co/gTTWXDP/Asuma.png"
+    },
+    {
+      "stt": 29,
+      "name": "ASUNA",
+      "colorBg": "#f75148",
+      "preview": "https://i.ibb.co/WDnzKmd/Asuna.png"
+    },
+    {
+      "stt": 30,
+      "name": "ATHANASIA",
+      "colorBg": "#559fde",
+      "preview": "https://i.ibb.co/dpZTFcj/Athanasia.png"
+    },
+    {
+      "stt": 31,
+      "name": "AYAKA",
+      "colorBg": "#829fbc",
+      "preview": "https://i.ibb.co/Rp6j1Q1/Ayaka.png"
+    },
+    {
+      "stt": 32,
+      "name": "AYANO AISHI",
+      "colorBg": "#425cba",
+      "preview": "https://i.ibb.co/znMBVQs/Ayano-Aishi.png"
+    },
+    {
+      "stt": 33,
+      "name": "AZUSA",
+      "colorBg": "#346cfd",
+      "preview": "https://i.ibb.co/7YNTjzx/Azusa.png"
+    },
+    {
+      "stt": 34,
+      "name": "BAJI",
+      "colorBg": "#6b625b",
+      "preview": "https://i.ibb.co/DbM5x52/Baji.png"
+    },
+    {
+      "stt": 35,
+      "name": "BAKI",
+      "colorBg": "#fc5048",
+      "preview": "https://i.ibb.co/GdMFCwM/Baki.png"
+    },
+    {
+      "stt": 36,
+      "name": "BAKUGOU",
+      "colorBg": "#556b71",
+      "preview": "https://i.ibb.co/bmRTz0W/Bakugou.png"
+    },
+    {
+      "stt": 37,
+      "name": "BAKURA RYOU",
+      "colorBg": "#7798ab",
+      "preview": "https://i.ibb.co/NWn5YKW/Bakura-Ryou.png"
+    },
+    {
+      "stt": 38,
+      "name": "BANCHOU",
+      "colorBg": "#ff973a",
+      "preview": "https://i.ibb.co/m81xDgK/Banchou.png"
+    },
+    {
+      "stt": 39,
+      "name": "BEERUS",
+      "colorBg": "#976dbf",
+      "preview": "https://i.ibb.co/x2JZ7pm/Beerus.png"
+    },
+    {
+      "stt": 40,
+      "name": "BENNET",
+      "colorBg": "#3cc725",
+      "preview": "https://i.ibb.co/wYpHxst/Bennet.png"
+    },
+    {
+      "stt": 41,
+      "name": "BLACK GOKU",
+      "colorBg": "#2c2b2f",
+      "preview": "https://i.ibb.co/L1395v5/Black-Goku.png"
+    },
+    {
+      "stt": 42,
+      "name": "BLACK MIKEY",
+      "colorBg": "#b5b5b5",
+      "preview": "https://i.ibb.co/8PPC2Mg/Black-Mikey.png"
+    },
+    {
+      "stt": 43,
+      "name": "BORUTO",
+      "colorBg": "#1e99e7",
+      "preview": "https://i.ibb.co/qC0RYZb/Boruto.png"
+    },
+    {
+      "stt": 44,
+      "name": "BRANDISH",
+      "colorBg": "#93c972",
+      "preview": "https://i.ibb.co/25Wp4xz/Brandish.png"
+    },
+    {
+      "stt": 45,
+      "name": "CERES FAUNA",
+      "colorBg": "#64c4a7",
+      "preview": "https://i.ibb.co/cNRTd6Z/Ceres-Fauna.png"
+    },
+    {
+      "stt": 46,
+      "name": "CHAHEAIN",
+      "colorBg": "#581f27",
+      "preview": "https://i.ibb.co/qDcVsg3/Chaheain.png"
+    },
+    {
+      "stt": 47,
+      "name": "CHARA",
+      "colorBg": "#70bd6b",
+      "preview": "https://i.ibb.co/nw5z8hZ/Chara.png"
+    },
+    {
+      "stt": 48,
+      "name": "CHERRY",
+      "colorBg": "#c48091",
+      "preview": "https://i.ibb.co/ZBLYL7Q/Cherry.png"
+    },
+    {
+      "stt": 49,
+      "name": "CHIFUYU",
+      "colorBg": "#243231",
+      "preview": "https://i.ibb.co/B2MWRXT/Chifuyu.png"
+    },
+    {
+      "stt": 50,
+      "name": "CHIKA",
+      "colorBg": "#ef6f89",
+      "preview": "https://i.ibb.co/KLMXvZz/Chika.png"
+    },
+    {
+      "stt": 51,
+      "name": "CHITANDA ERU",
+      "colorBg": "#80729a",
+      "preview": "https://i.ibb.co/GpBZXGv/Chitanda-Eru.png"
+    },
+    {
+      "stt": 52,
+      "name": "CHLOE AUBERT",
+      "colorBg": "#48a1ec",
+      "preview": "https://i.ibb.co/nRc9Hjw/Chloe-Aubert.png"
+    },
+    {
+      "stt": 53,
+      "name": "CHOPPER",
+      "colorBg": "#4bbdd6",
+      "preview": "https://i.ibb.co/PWFRF4h/Chopper.png"
+    },
+    {
+      "stt": 54,
+      "name": "CHTHOLLY",
+      "colorBg": "#66a4ed",
+      "preview": "https://i.ibb.co/C1bRNn1/Chtholly.png"
+    },
+    {
+      "stt": 55,
+      "name": "CHUUYA",
+      "colorBg": "#d43f54",
+      "preview": "https://i.ibb.co/Qdc8hGP/Chuuya.png"
+    },
+    {
+      "stt": 56,
+      "name": "CONAN",
+      "colorBg": "#256ccd",
+      "preview": "https://i.ibb.co/rxYxYQ5/Conan.png"
+    },
+    {
+      "stt": 57,
+      "name": "COOL BOY",
+      "colorBg": "#345763",
+      "preview": "https://i.ibb.co/ZgJGmnh/Cool-Boy.png"
+    },
+    {
+      "stt": 58,
+      "name": "COOL BOY 1",
+      "colorBg": "#e2bc5f",
+      "preview": "https://i.ibb.co/3zBFLcw/Cool-Boy-1.png"
+    },
+    {
+      "stt": 59,
+      "name": "CURE FLORA",
+      "colorBg": "#ff64d4",
+      "preview": "https://i.ibb.co/Nx4mCTb/Cure-Flora.png"
+    },
+    {
+      "stt": 60,
+      "name": "CURE MERMAID",
+      "colorBg": "#5b9ac9",
+      "preview": "https://i.ibb.co/X2GJfPj/Cure-Mermaid.png"
+    },
+    {
+      "stt": 61,
+      "name": "CURE SCARLET",
+      "colorBg": "#f3365e",
+      "preview": "https://i.ibb.co/y57Pf6s/Cure-Scarlet.png"
+    },
+    {
+      "stt": 62,
+      "name": "CURE TWINKLE",
+      "colorBg": "#fecb40",
+      "preview": "https://i.ibb.co/Dg87XZy/Cure-Twinkle.png"
+    },
+    {
+      "stt": 63,
+      "name": "DABI",
+      "colorBg": "#394972",
+      "preview": "https://i.ibb.co/8MZFGrp/Dabi.png"
+    },
+    {
+      "stt": 64,
+      "name": "DARKNESS",
+      "colorBg": "#f1c16c",
+      "preview": "https://i.ibb.co/SKhWLVP/Darkness.png"
+    },
+    {
+      "stt": 65,
+      "name": "DAZAI",
+      "colorBg": "#6e7e9e",
+      "preview": "https://i.ibb.co/bHczG2J/Dazai.png"
+    },
+    {
+      "stt": 66,
+      "name": "DEIDARA",
+      "colorBg": "#c7a548",
+      "preview": "https://i.ibb.co/18vDFkW/Deidara.png"
+    },
+    {
+      "stt": 67,
+      "name": "DENKI",
+      "colorBg": "#ffc844",
+      "preview": "https://i.ibb.co/KbKXLTL/Denki.png"
+    },
+    {
+      "stt": 68,
+      "name": "DIABLO",
+      "colorBg": "#a0373a",
+      "preview": "https://i.ibb.co/sCk6JNK/Diablo.png"
+    },
+    {
+      "stt": 69,
+      "name": "DILUC RAGNVINDR",
+      "colorBg": "#b62918",
+      "preview": "https://i.ibb.co/84FH75z/Diluc-Ragnvindr.png"
+    },
+    {
+      "stt": 70,
+      "name": "DIMARIA YESTA",
+      "colorBg": "#3f040c",
+      "preview": "https://i.ibb.co/cFW9rJB/Dimaria-Yesta.png"
+    },
+    {
+      "stt": 71,
+      "name": "DIO",
+      "colorBg": "#0d692b",
+      "preview": "https://i.ibb.co/w7VQXQh/Dio.png"
+    },
+    {
+      "stt": 72,
+      "name": "DOFLAMINGO",
+      "colorBg": "#d1819f",
+      "preview": "https://i.ibb.co/pxFWFTQ/Doflamingo.png"
+    },
+    {
+      "stt": 73,
+      "name": "DORAEMI",
+      "colorBg": "#fcbc3f",
+      "preview": "https://i.ibb.co/gz0SFfj/Doraemi.png"
+    },
+    {
+      "stt": 74,
+      "name": "DORAEMON",
+      "colorBg": "#58d3e9",
+      "preview": "https://i.ibb.co/BG4RpnC/Doraemon.png"
+    },
+    {
+      "stt": 75,
+      "name": "DR STONE",
+      "colorBg": "#30b05d",
+      "preview": "https://i.ibb.co/vJNDCfd/Dr-Stone.png"
+    },
+    {
+      "stt": 76,
+      "name": "DRAKEN",
+      "colorBg": "#1f242a",
+      "preview": "https://i.ibb.co/FqqYmRp/Draken.png"
+    },
+    {
+      "stt": 77,
+      "name": "DU CA",
+      "colorBg": "#ff99b6",
+      "preview": "https://i.ibb.co/JxNH7ky/Du-Ca.png"
+    },
+    {
+      "stt": 78,
+      "name": "DVA",
+      "colorBg": "#f6899c",
+      "preview": "https://i.ibb.co/YWSnyHk/Dva.png"
+    },
+    {
+      "stt": 79,
+      "name": "EDWARD NEWGATE",
+      "colorBg": "#e12929",
+      "preview": "https://i.ibb.co/8mwqzTp/Edward-Newgate.png"
+    },
+    {
+      "stt": 80,
+      "name": "ELAINA",
+      "colorBg": "#9e80af",
+      "preview": "https://i.ibb.co/W3CqVD0/Elaina.png"
+    },
+    {
+      "stt": 81,
+      "name": "EMILIA",
+      "colorBg": "#a372c2",
+      "preview": "https://i.ibb.co/B3WXzc4/Emilia.png"
+    },
+    {
+      "stt": 82,
+      "name": "EMIYA SHIROU",
+      "colorBg": "#3e4588",
+      "preview": "https://i.ibb.co/23JY49m/Emiya-Shirou.png"
+    },
+    {
+      "stt": 83,
+      "name": "EMMA",
+      "colorBg": "#d6ba62",
+      "preview": "https://i.ibb.co/vkLfmKT/Emma.png"
+    },
+    {
+      "stt": 84,
+      "name": "EREN",
+      "colorBg": "#615852",
+      "preview": "https://i.ibb.co/M9BK5Nd/Eren.png"
+    },
+    {
+      "stt": 85,
+      "name": "ERIS",
+      "colorBg": "#da3b45",
+      "preview": "https://i.ibb.co/HVLGFjk/Eris.png"
+    },
+    {
+      "stt": 86,
+      "name": "ERZA",
+      "colorBg": "#c94c53",
+      "preview": "https://i.ibb.co/khkBRyC/Erza.png"
+    },
+    {
+      "stt": 87,
+      "name": "EUGEO",
+      "colorBg": "#40b6e2",
+      "preview": "https://i.ibb.co/b7VzvnK/Eugeo.png"
+    },
+    {
+      "stt": 88,
+      "name": "EULA",
+      "colorBg": "#5a8bd7",
+      "preview": "https://i.ibb.co/88zFHVs/Eula.png"
+    },
+    {
+      "stt": 89,
+      "name": "FISCHL",
+      "colorBg": "#59a1c9",
+      "preview": "https://i.ibb.co/k07cLJ8/Fischl.png"
+    },
+    {
+      "stt": 90,
+      "name": "FLATORTE",
+      "colorBg": "#6f39e1",
+      "preview": "https://i.ibb.co/GPPKm5P/Flatorte.png"
+    },
+    {
+      "stt": 91,
+      "name": "FREE DE LA HOYA",
+      "colorBg": "#efc122",
+      "preview": "https://i.ibb.co/16mBQkW/Free-De-La-Hoya.png"
+    },
+    {
+      "stt": 92,
+      "name": "FUBUKI",
+      "colorBg": "#44756a",
+      "preview": "https://i.ibb.co/2WkdNv7/Fubuki.png"
+    },
+    {
+      "stt": 93,
+      "name": "FUBUKI 1",
+      "colorBg": "#31b1e1",
+      "preview": "https://i.ibb.co/q1QmPWK/Fubuki-1.png"
+    },
+    {
+      "stt": 94,
+      "name": "FUTABA RIO",
+      "colorBg": "#ae9e82",
+      "preview": "https://i.ibb.co/YPq1Qjm/Futaba-Rio.png"
+    },
+    {
+      "stt": 95,
+      "name": "FUWA",
+      "colorBg": "#6bd0f1",
+      "preview": "https://i.ibb.co/YfzdjHn/Fuwa.png"
+    },
+    {
+      "stt": 96,
+      "name": "GAARA",
+      "colorBg": "#85464d",
+      "preview": "https://i.ibb.co/V2kj19H/Gaara.png"
+    },
+    {
+      "stt": 97,
+      "name": "GAJEEL",
+      "colorBg": "#646a74",
+      "preview": "https://i.ibb.co/ydx2dj7/Gajeel.png"
+    },
+    {
+      "stt": 98,
+      "name": "GANYU",
+      "colorBg": "#5f8bb6",
+      "preview": "https://i.ibb.co/Y2rM2KT/Ganyu.png"
+    },
+    {
+      "stt": 99,
+      "name": "GENJI",
+      "colorBg": "#91c23b",
+      "preview": "https://i.ibb.co/DK5Pkyt/Genji.png"
+    },
+    {
+      "stt": 100,
+      "name": "GENOS",
+      "colorBg": "#f2d04a",
+      "preview": "https://i.ibb.co/SxzjWym/Genos.png"
+    },
+    {
+      "stt": 101,
+      "name": "GILGAMESH",
+      "colorBg": "#829fbc",
+      "preview": "https://i.ibb.co/Ldc9mSr/Gilgamesh.png"
+    },
+    {
+      "stt": 102,
+      "name": "GILGAMESH CASTER",
+      "colorBg": "#f9c24c",
+      "preview": "https://i.ibb.co/8PqYrjt/Gilgamesh-Caster.png"
+    },
+    {
+      "stt": 103,
+      "name": "GIN",
+      "colorBg": "#999",
+      "preview": "https://i.ibb.co/cgTvb9F/Gin.png"
+    },
+    {
+      "stt": 104,
+      "name": "GINTOKI",
+      "colorBg": "#6984b7",
+      "preview": "https://i.ibb.co/BP1Z56v/Gintoki.png"
+    },
+    {
+      "stt": 105,
+      "name": "GIORNO GIOVANNA",
+      "colorBg": "#b073a7",
+      "preview": "https://i.ibb.co/nC22DKr/Giorno-Giovanna.png"
+    },
+    {
+      "stt": 106,
+      "name": "GIRL CUTE",
+      "colorBg": "#d2c5b4",
+      "preview": "https://i.ibb.co/7VYyjsk/Girl-Cute.png"
+    },
+    {
+      "stt": 107,
+      "name": "GOHAN",
+      "colorBg": "#326ee3",
+      "preview": "https://i.ibb.co/T4mbJkj/Gohan.png"
+    },
+    {
+      "stt": 108,
+      "name": "GRAY",
+      "colorBg": "#1d3c75",
+      "preview": "https://i.ibb.co/r65trr1/Gray.png"
+    },
+    {
+      "stt": 109,
+      "name": "GURA",
+      "colorBg": "#5ea9d4",
+      "preview": "https://i.ibb.co/qWLH4sN/Gura.png"
+    },
+    {
+      "stt": 110,
+      "name": "GUREN",
+      "colorBg": "#6c809e",
+      "preview": "https://i.ibb.co/v1KdvH9/Guren.png"
+    },
+    {
+      "stt": 111,
+      "name": "HAIBARA AI",
+      "colorBg": "#56b9de",
+      "preview": "https://i.ibb.co/M9yfVfN/Haibara-Ai.png"
+    },
+    {
+      "stt": 112,
+      "name": "HAIR BLACK",
+      "colorBg": "#8cbcc7",
+      "preview": "https://i.ibb.co/s6wxm2w/Hair-Black.png"
+    },
+    {
+      "stt": 113,
+      "name": "HAITANI RAN",
+      "colorBg": "#d1ae59",
+      "preview": "https://i.ibb.co/GMxNsDJ/Haitani-Ran.png"
+    },
+    {
+      "stt": 114,
+      "name": "HAITANI RINDOU",
+      "colorBg": "#988cb3",
+      "preview": "https://i.ibb.co/87HTw6h/Haitani-Rindou.png"
+    },
+    {
+      "stt": 115,
+      "name": "HANAKO",
+      "colorBg": "#845c5c",
+      "preview": "https://i.ibb.co/NKDGjpd/Hanako.png"
+    },
+    {
+      "stt": 116,
+      "name": "HANJI ZOE",
+      "colorBg": "#715f51",
+      "preview": "https://i.ibb.co/Ht9w0ds/Hanji-Zoe.png"
+    },
+    {
+      "stt": 117,
+      "name": "HANMA",
+      "colorBg": "#7d957d",
+      "preview": "https://i.ibb.co/3YdJFXt/Hanma.png"
+    },
+    {
+      "stt": 118,
+      "name": "HAPPY",
+      "colorBg": "#53bfde",
+      "preview": "https://i.ibb.co/vx2x500/Happy.png"
+    },
+    {
+      "stt": 119,
+      "name": "HARUNO HARUKA",
+      "colorBg": "#f46546",
+      "preview": "https://i.ibb.co/5snv3Yx/Haruno-Haruka.png"
+    },
+    {
+      "stt": 120,
+      "name": "HASHIRAMA",
+      "colorBg": "#777",
+      "preview": "https://i.ibb.co/SsCcmVd/Hashirama.png"
+    },
+    {
+      "stt": 121,
+      "name": "HIDAN",
+      "colorBg": "#b95e57",
+      "preview": "https://i.ibb.co/nLZnmgb/Hidan.png"
+    },
+    {
+      "stt": 122,
+      "name": "HIMEJIMA GYOMEI",
+      "colorBg": "#9f9a4f",
+      "preview": "https://i.ibb.co/k5DksT9/Himejima-Gyomei.png"
+    },
+    {
+      "stt": 123,
+      "name": "HINA",
+      "colorBg": "#ef93a2",
+      "preview": "https://i.ibb.co/ZBHRkb9/Hina.png"
+    },
+    {
+      "stt": 124,
+      "name": "HINATA",
+      "colorBg": "#508cb6",
+      "preview": "https://i.ibb.co/wwhj66R/Hinata.png"
+    },
+    {
+      "stt": 125,
+      "name": "HINATA HYUGA",
+      "colorBg": "#816e87",
+      "preview": "https://i.ibb.co/C0WdvHK/Hinata-Hyuga.png"
+    },
+    {
+      "stt": 126,
+      "name": "HIROOMI",
+      "colorBg": "#8ca5d6",
+      "preview": "https://i.ibb.co/jvcHLgZ/Hiroomi.png"
+    },
+    {
+      "stt": 127,
+      "name": "HIT",
+      "colorBg": "#9b62e2",
+      "preview": "https://i.ibb.co/MnHL0Vp/Hit.png"
+    },
+    {
+      "stt": 128,
+      "name": "HORI",
+      "colorBg": "#ffb72b",
+      "preview": "https://i.ibb.co/2kvnDq1/Hori.png"
+    },
+    {
+      "stt": 129,
+      "name": "HOWL",
+      "colorBg": "#5b73a5",
+      "preview": "https://i.ibb.co/4772sJZ/Howl.png"
+    },
+    {
+      "stt": 130,
+      "name": "HUTAO",
+      "colorBg": "#e44335",
+      "preview": "https://i.ibb.co/SfJKZVb/Hutao.png"
+    },
+    {
+      "stt": 131,
+      "name": "HYAKKIMARU",
+      "colorBg": "#b8353c",
+      "preview": "https://i.ibb.co/RY30Zs4/Hyakkimaru.png"
+    },
+    {
+      "stt": 132,
+      "name": "ICHIGO",
+      "colorBg": "#76b1db",
+      "preview": "https://i.ibb.co/2dGZYrS/Ichigo.png"
+    },
+    {
+      "stt": 133,
+      "name": "ICHIGO 1",
+      "colorBg": "#f7922f",
+      "preview": "https://i.ibb.co/2yXgdD3/Ichigo-1.png"
+    },
+    {
+      "stt": 134,
+      "name": "IGURO OBANAI",
+      "colorBg": "#5b2eef",
+      "preview": "https://i.ibb.co/zxNR0Gq/Iguro-Obanai.png"
+    },
+    {
+      "stt": 135,
+      "name": "ILULU",
+      "colorBg": "#d781c2",
+      "preview": "https://i.ibb.co/4NLR69z/Ilulu.png"
+    },
+    {
+      "stt": 136,
+      "name": "IMAUSHI",
+      "colorBg": "#869592",
+      "preview": "https://i.ibb.co/rmQGzrr/Imaushi.png"
+    },
+    {
+      "stt": 137,
+      "name": "INOSUKE",
+      "colorBg": "#a58266",
+      "preview": "https://i.ibb.co/nf7j2MD/Inosuke.png"
+    },
+    {
+      "stt": 138,
+      "name": "INUI SEISHU",
+      "colorBg": "#d71e1e",
+      "preview": "https://i.ibb.co/MhXw5g1/Inui-Seishu.png"
+    },
+    {
+      "stt": 139,
+      "name": "INUYASHA",
+      "colorBg": "#b33232",
+      "preview": "https://i.ibb.co/CwPNFjq/Inuyasha.png"
+    },
+    {
+      "stt": 140,
+      "name": "IRUMA",
+      "colorBg": "#3fafe8",
+      "preview": "https://i.ibb.co/j3dLvFh/Iruma.png"
+    },
+    {
+      "stt": 141,
+      "name": "ISSEI",
+      "colorBg": "#ef3d3e",
+      "preview": "https://i.ibb.co/28gDqXL/Issei.png"
+    },
+    {
+      "stt": 142,
+      "name": "ITACHI",
+      "colorBg": "#47282b",
+      "preview": "https://i.ibb.co/6yd9xYj/Itachi.png"
+    },
+    {
+      "stt": 143,
+      "name": "ITADORI YUJI",
+      "colorBg": "#df5059",
+      "preview": "https://i.ibb.co/ncRnHck/Itadori-Yuji.png"
+    },
+    {
+      "stt": 144,
+      "name": "IZANA KUROKAWA",
+      "colorBg": "#746db6",
+      "preview": "https://i.ibb.co/WKPcT3N/Izana-Kurokawa.png"
+    },
+    {
+      "stt": 145,
+      "name": "IZANA KUROKAWA 1",
+      "colorBg": "#7842f2",
+      "preview": "https://i.ibb.co/HH645Dh/Izana-Kurokawa-1.png"
+    },
+    {
+      "stt": 146,
+      "name": "IZUMI SAGIRI",
+      "colorBg": "#4eadd0",
+      "preview": "https://i.ibb.co/bXyXxhD/Izumi-Sagiri.png"
+    },
+    {
+      "stt": 147,
+      "name": "JEAN",
+      "colorBg": "#8669aa",
+      "preview": "https://i.ibb.co/5GTZsZ7/Jean.png"
+    },
+    {
+      "stt": 148,
+      "name": "JELLAL",
+      "colorBg": "#539cf8",
+      "preview": "https://i.ibb.co/9Y7wwxX/Jellal.png"
+    },
+    {
+      "stt": 149,
+      "name": "JINMORI",
+      "colorBg": "#db432a",
+      "preview": "https://i.ibb.co/7KzCM6v/Jinmori.png"
+    },
+    {
+      "stt": 150,
+      "name": "JIREN",
+      "colorBg": "#d42b1d",
+      "preview": "https://i.ibb.co/nr84RCR/Jiren.png"
+    },
+    {
+      "stt": 151,
+      "name": "JOHNNY",
+      "colorBg": "#4ea6de",
+      "preview": "https://i.ibb.co/y8smchY/Johnny.png"
+    },
+    {
+      "stt": 152,
+      "name": "JOLYNE",
+      "colorBg": "#6ba940",
+      "preview": "https://i.ibb.co/M1gdQWb/Jolyne.png"
+    },
+    {
+      "stt": 153,
+      "name": "JONATHAN JOESTAR",
+      "colorBg": "#3749ce",
+      "preview": "https://i.ibb.co/fxT1D27/Jonathan-Joestar.png"
+    },
+    {
+      "stt": 154,
+      "name": "JOSEPH JOESTAR",
+      "colorBg": "#30b05d",
+      "preview": "https://i.ibb.co/LxL5ct4/Joseph-Joestar.png"
+    },
+    {
+      "stt": 155,
+      "name": "JOSUKE",
+      "colorBg": "#396cb1",
+      "preview": "https://i.ibb.co/kx7RV44/Josuke.png"
+    },
+    {
+      "stt": 156,
+      "name": "JOTARO",
+      "colorBg": "#53544c",
+      "preview": "https://i.ibb.co/4WKN44x/Jotaro.png"
+    },
+    {
+      "stt": 157,
+      "name": "JRAIYA",
+      "colorBg": "#834f55",
+      "preview": "https://i.ibb.co/XF2B6ZY/Jraiya.png"
+    },
+    {
+      "stt": 158,
+      "name": "JULIET PERSIA",
+      "colorBg": "#47a3e9",
+      "preview": "https://i.ibb.co/2yV4zbw/Juliet-Persia.png"
+    },
+    {
+      "stt": 159,
+      "name": "JUUZOU",
+      "colorBg": "#c43432",
+      "preview": "https://i.ibb.co/GMX1jVG/Juuzou.png"
+    },
+    {
+      "stt": 160,
+      "name": "JUVIA",
+      "colorBg": "#5383be",
+      "preview": "https://i.ibb.co/b3GtKTy/Juvia.png"
+    },
+    {
+      "stt": 161,
+      "name": "KAGEYAMA TOBIO",
+      "colorBg": "#5b4e92",
+      "preview": "https://i.ibb.co/pwkh1R5/Kageyama-Tobio.png"
+    },
+    {
+      "stt": 162,
+      "name": "KAGUYA",
+      "colorBg": "#cf332b",
+      "preview": "https://i.ibb.co/Jt6cbBm/Kaguya.png"
+    },
+    {
+      "stt": 163,
+      "name": "KAGUYA MADOKA",
+      "colorBg": "#79649d",
+      "preview": "https://i.ibb.co/7v2StL4/Kaguya-Madoka.png"
+    },
+    {
+      "stt": 164,
+      "name": "KAIBA",
+      "colorBg": "#1987dc",
+      "preview": "https://i.ibb.co/5sFS4wJ/Kaiba.png"
+    },
+    {
+      "stt": 165,
+      "name": "KAIDO MINAMI",
+      "colorBg": "#52cdf6",
+      "preview": "https://i.ibb.co/mFMN77D/Kaido-Minami.png"
+    },
+    {
+      "stt": 166,
+      "name": "KAIDO REJIU",
+      "colorBg": "#ff82a2",
+      "preview": "https://i.ibb.co/VMd82bK/Kaido-Rejiu.png"
+    },
+    {
+      "stt": 167,
+      "name": "KAITO KID",
+      "colorBg": "#292c35",
+      "preview": "https://i.ibb.co/2y7KCNq/Kaito-Kid.png"
+    },
+    {
+      "stt": 168,
+      "name": "KAKASHI",
+      "colorBg": "#626b57",
+      "preview": "https://i.ibb.co/C6zFK5Y/Kakashi.png"
+    },
+    {
+      "stt": 169,
+      "name": "KAKUZU",
+      "colorBg": "#777",
+      "preview": "https://i.ibb.co/cxkRsT8/Kakuzu.png"
+    },
+    {
+      "stt": 170,
+      "name": "KAKYOIN",
+      "colorBg": "#516141",
+      "preview": "https://i.ibb.co/8c8CcvS/Kakyoin.png"
+    },
+    {
+      "stt": 171,
+      "name": "KAMBE DAISUKE",
+      "colorBg": "#ac4639",
+      "preview": "https://i.ibb.co/r5N6sBV/Kambe-Daisuke.png"
+    },
+    {
+      "stt": 172,
+      "name": "KANAO",
+      "colorBg": "#9e3ff4",
+      "preview": "https://i.ibb.co/41T3HQB/Kanao.png"
+    },
+    {
+      "stt": 173,
+      "name": "KANATA",
+      "colorBg": "#5aaef8",
+      "preview": "https://i.ibb.co/xXyNKQv/Kanata.png"
+    },
+    {
+      "stt": 174,
+      "name": "KANEKI KEN",
+      "colorBg": "#b22a2a",
+      "preview": "https://i.ibb.co/QdwhF4Z/Kaneki-Ken.png"
+    },
+    {
+      "stt": 175,
+      "name": "KANNA",
+      "colorBg": "#eb9ead",
+      "preview": "https://i.ibb.co/khpM7ZX/Kanna.png"
+    },
+    {
+      "stt": 176,
+      "name": "KANROJI MITSURI",
+      "colorBg": "#aecd40",
+      "preview": "https://i.ibb.co/SDjx00Q/Kanroji-Mitsuri.png"
+    },
+    {
+      "stt": 177,
+      "name": "KAONASHI",
+      "colorBg": "#9c9c9c",
+      "preview": "https://i.ibb.co/TYWTNrX/Kaonashi.png"
+    },
+    {
+      "stt": 178,
+      "name": "KAORI MIYAZONO",
+      "colorBg": "#82778a",
+      "preview": "https://i.ibb.co/M5NGZCt/Kaori-Miyazono.png"
+    },
+    {
+      "stt": 179,
+      "name": "KARMA",
+      "colorBg": "#8a695c",
+      "preview": "https://i.ibb.co/30g12CR/Karma.png"
+    },
+    {
+      "stt": 180,
+      "name": "KATAKURI",
+      "colorBg": "#e63e77",
+      "preview": "https://i.ibb.co/c20WRgV/Katakuri.png"
+    },
+    {
+      "stt": 181,
+      "name": "KAWAKI",
+      "colorBg": "#b95768",
+      "preview": "https://i.ibb.co/LYqdXsX/Kawaki.png"
+    },
+    {
+      "stt": 182,
+      "name": "KAWARAGI SENJU",
+      "colorBg": "#9099be",
+      "preview": "https://i.ibb.co/1zFN5HC/Kawaragi-Senju.png"
+    },
+    {
+      "stt": 183,
+      "name": "KAZUHA TOYAMA",
+      "colorBg": "#bda481",
+      "preview": "https://i.ibb.co/4jpXPhG/Kazuha-Toyama.png"
+    },
+    {
+      "stt": 184,
+      "name": "KAZUTORA",
+      "colorBg": "#d7ba61",
+      "preview": "https://i.ibb.co/Sc2fqDy/Kazutora.png"
+    },
+    {
+      "stt": 185,
+      "name": "KENMA",
+      "colorBg": "#6ebed2",
+      "preview": "https://i.ibb.co/fDxXgf8/Kenma.png"
+    },
+    {
+      "stt": 186,
+      "name": "KEQING",
+      "colorBg": "#6a4e90",
+      "preview": "https://i.ibb.co/mh0RG8d/Keqing.png"
+    },
+    {
+      "stt": 187,
+      "name": "KIANA",
+      "colorBg": "#ffb243",
+      "preview": "https://i.ibb.co/JpPz3CV/Kiana.png"
+    },
+    {
+      "stt": 188,
+      "name": "KILLUA ZOLDYCK",
+      "colorBg": "#596890",
+      "preview": "https://i.ibb.co/n3Fd2fn/Killua-Zoldyck.png"
+    },
+    {
+      "stt": 189,
+      "name": "KIRITO",
+      "colorBg": "#5998a8",
+      "preview": "https://i.ibb.co/wpSXLrx/Kirito.png"
+    },
+    {
+      "stt": 190,
+      "name": "KIRITO 1",
+      "colorBg": "#29d0c2",
+      "preview": "https://i.ibb.co/gVkpBWg/Kirito-1.png"
+    },
+    {
+      "stt": 191,
+      "name": "KIRITO GGO",
+      "colorBg": "#a15aea",
+      "preview": "https://i.ibb.co/fGb1NfC/Kirito-Ggo.png"
+    },
+    {
+      "stt": 192,
+      "name": "KISAKI",
+      "colorBg": "#caab2f",
+      "preview": "https://i.ibb.co/sJ5ckW8/Kisaki.png"
+    },
+    {
+      "stt": 193,
+      "name": "KISAME",
+      "colorBg": "#b95e57",
+      "preview": "https://i.ibb.co/CMqHxxM/Kisame.png"
+    },
+    {
+      "stt": 194,
+      "name": "KIYOTAKA AYANOKOJI",
+      "colorBg": "#ae3758",
+      "preview": "https://i.ibb.co/wR0VMXJ/Kiyotaka-Ayanokoji.png"
+    },
+    {
+      "stt": 195,
+      "name": "KLEE",
+      "colorBg": "#d64131",
+      "preview": "https://i.ibb.co/10D5pdy/Klee.png"
+    },
+    {
+      "stt": 196,
+      "name": "KOCHO KANAE",
+      "colorBg": "#852dd5",
+      "preview": "https://i.ibb.co/LnyMCnx/Kocho-Kanae.png"
+    },
+    {
+      "stt": 197,
+      "name": "KOCHO SHINOBU",
+      "colorBg": "#ae9dd9",
+      "preview": "https://i.ibb.co/JQQsfdH/Kocho-Shinobu.png"
+    },
+    {
+      "stt": 198,
+      "name": "KOKONOI",
+      "colorBg": "#5839cd",
+      "preview": "https://i.ibb.co/X4cWKdL/Kokonoi.png"
+    },
+    {
+      "stt": 199,
+      "name": "KOKUSHIBOU",
+      "colorBg": "#9c2e32",
+      "preview": "https://i.ibb.co/pP937fv/Kokushibou.png"
+    },
+    {
+      "stt": 200,
+      "name": "KOMI SAN",
+      "colorBg": "#b459cb",
+      "preview": "https://i.ibb.co/4Zb259W/Komi-San.png"
+    },
+    {
+      "stt": 201,
+      "name": "KONAN",
+      "colorBg": "#981d18",
+      "preview": "https://i.ibb.co/ctSpbR7/Konan.png"
+    },
+    {
+      "stt": 202,
+      "name": "KORO SENSEI",
+      "colorBg": "#ffca4e",
+      "preview": "https://i.ibb.co/TPSkmMd/Koro-Sensei.png"
+    },
+    {
+      "stt": 203,
+      "name": "KOTORI",
+      "colorBg": "#ed9595",
+      "preview": "https://i.ibb.co/Jjsrbyf/Kotori.png"
+    },
+    {
+      "stt": 204,
+      "name": "KRONII",
+      "colorBg": "#deb94a",
+      "preview": "https://i.ibb.co/5FwmtV6/Kronii.png"
+    },
+    {
+      "stt": 205,
+      "name": "KUMA BEAR",
+      "colorBg": "#8ab0e0",
+      "preview": "https://i.ibb.co/jJyz2wc/Kuma-Bear.png"
+    },
+    {
+      "stt": 206,
+      "name": "KUNIMI AKIRA",
+      "colorBg": "#5dcbc3",
+      "preview": "https://i.ibb.co/BzzXx7p/Kunimi-Akira.png"
+    },
+    {
+      "stt": 207,
+      "name": "KUROKO",
+      "colorBg": "#499bba",
+      "preview": "https://i.ibb.co/tY3zXPq/Kuroko.png"
+    },
+    {
+      "stt": 208,
+      "name": "KURUMI",
+      "colorBg": "#4d5190",
+      "preview": "https://i.ibb.co/SxtSq3C/Kurumi.png"
+    },
+    {
+      "stt": 209,
+      "name": "KUSHINA",
+      "colorBg": "#9c3c4c",
+      "preview": "https://i.ibb.co/z8J2SGV/Kushina.png"
+    },
+    {
+      "stt": 210,
+      "name": "KYARU",
+      "colorBg": "#9888ae",
+      "preview": "https://i.ibb.co/LZB77yF/Kyaru.png"
+    },
+    {
+      "stt": 211,
+      "name": "L LAWLIE",
+      "colorBg": "#454545",
+      "preview": "https://i.ibb.co/WzcWtpx/L-Lawlie.png"
+    },
+    {
+      "stt": 212,
+      "name": "LAIKA",
+      "colorBg": "#e73441",
+      "preview": "https://i.ibb.co/Hth4vHz/Laika.png"
+    },
+    {
+      "stt": 213,
+      "name": "LALA SATALIN DEVILUKE",
+      "colorBg": "#57a5b1",
+      "preview": "https://i.ibb.co/59LH8gz/Lala-Satalin-Deviluke.png"
+    },
+    {
+      "stt": 214,
+      "name": "LANGA",
+      "colorBg": "#56789e",
+      "preview": "https://i.ibb.co/vPzHXpc/Langa.png"
+    },
+    {
+      "stt": 215,
+      "name": "LAXUS",
+      "colorBg": "#6d517e",
+      "preview": "https://i.ibb.co/RStzJC6/Laxus.png"
+    },
+    {
+      "stt": 216,
+      "name": "LEONHART",
+      "colorBg": "#949586",
+      "preview": "https://i.ibb.co/0JC0G80/Leonhart.png"
+    },
+    {
+      "stt": 217,
+      "name": "LEVI",
+      "colorBg": "#4b3b33",
+      "preview": "https://i.ibb.co/sQcLD6R/Levi.png"
+    },
+    {
+      "stt": 218,
+      "name": "LISA",
+      "colorBg": "#86679a",
+      "preview": "https://i.ibb.co/GsNSDwQ/Lisa.png"
+    },
+    {
+      "stt": 219,
+      "name": "LOLI",
+      "colorBg": "#3aa3c5",
+      "preview": "https://i.ibb.co/QpydG8X/Loli.png"
+    },
+    {
+      "stt": 220,
+      "name": "LOUIS",
+      "colorBg": "#776ec9",
+      "preview": "https://i.ibb.co/NZFxSQJ/Louis.png"
+    },
+    {
+      "stt": 221,
+      "name": "LUCK VOLTIA",
+      "colorBg": "#5997a5",
+      "preview": "https://i.ibb.co/t8TdRFB/Luck-Voltia.png"
+    },
+    {
+      "stt": 222,
+      "name": "LUCY",
+      "colorBg": "#6a8eb5",
+      "preview": "https://i.ibb.co/ZYZv5Dd/Lucy.png"
+    },
+    {
+      "stt": 223,
+      "name": "LUFFY",
+      "colorBg": "#f1bc1c",
+      "preview": "https://i.ibb.co/m439FrS/Luffy.png"
+    },
+    {
+      "stt": 224,
+      "name": "LUGH",
+      "colorBg": "#6480db",
+      "preview": "https://i.ibb.co/MBNKWfC/Lugh.png"
+    },
+    {
+      "stt": 225,
+      "name": "LUMINOUS VALENTINE",
+      "colorBg": "#776ec9",
+      "preview": "https://i.ibb.co/BK7ZVTD/Luminous-Valentine.png"
+    },
+    {
+      "stt": 226,
+      "name": "LUNA",
+      "colorBg": "#db98c1",
+      "preview": "https://i.ibb.co/4F7dDzR/Luna.png"
+    },
+    {
+      "stt": 227,
+      "name": "LYON",
+      "colorBg": "#388cda",
+      "preview": "https://i.ibb.co/rMyLx0d/Lyon.png"
+    },
+    {
+      "stt": 228,
+      "name": "MADARA",
+      "colorBg": "#a3645d",
+      "preview": "https://i.ibb.co/tM1tVFk/Madara.png"
+    },
+    {
+      "stt": 229,
+      "name": "MAHITO",
+      "colorBg": "#7d919a",
+      "preview": "https://i.ibb.co/PMdcBnV/Mahito.png"
+    },
+    {
+      "stt": 230,
+      "name": "MAI",
+      "colorBg": "#5872a3",
+      "preview": "https://i.ibb.co/VHvyNJC/Mai.png"
+    },
+    {
+      "stt": 231,
+      "name": "MAKI HARUKAWA",
+      "colorBg": "#b33a31",
+      "preview": "https://i.ibb.co/wBW7tZG/Maki-Harukawa.png"
+    },
+    {
+      "stt": 232,
+      "name": "MAKIMA",
+      "colorBg": "#ea3d4d",
+      "preview": "https://i.ibb.co/yN71DwR/Makima.png"
+    },
+    {
+      "stt": 233,
+      "name": "MAKOMO",
+      "colorBg": "#ec8aa1",
+      "preview": "https://i.ibb.co/DWBRvbw/Makomo.png"
+    },
+    {
+      "stt": 234,
+      "name": "MARCO",
+      "colorBg": "#bd3eb9",
+      "preview": "https://i.ibb.co/7rD7Zvj/Marco.png"
+    },
+    {
+      "stt": 235,
+      "name": "MARIK ISHTAR",
+      "colorBg": "#75648c",
+      "preview": "https://i.ibb.co/D7VYLpg/Marik-Ishtar.png"
+    },
+    {
+      "stt": 236,
+      "name": "MEGUMI",
+      "colorBg": "#778aa4",
+      "preview": "https://i.ibb.co/FVzVHKS/Megumi.png"
+    },
+    {
+      "stt": 237,
+      "name": "MEGUMIN",
+      "colorBg": "#d75151",
+      "preview": "https://i.ibb.co/bzCP1vd/Megumin.png"
+    },
+    {
+      "stt": 238,
+      "name": "MIDORIYA",
+      "colorBg": "#3b867a",
+      "preview": "https://i.ibb.co/8j2s5FF/Midoriya.png"
+    },
+    {
+      "stt": 239,
+      "name": "MIERUKO",
+      "colorBg": "#f7c35e",
+      "preview": "https://i.ibb.co/N6kYh36/Mieruko.png"
+    },
+    {
+      "stt": 240,
+      "name": "MIKASA",
+      "colorBg": "#8c664e",
+      "preview": "https://i.ibb.co/VWGqXVN/Mikasa.png"
+    },
+    {
+      "stt": 241,
+      "name": "MIKEY",
+      "colorBg": "#2e2a28",
+      "preview": "https://i.ibb.co/8PPC2Mg/Black-Mikey.png"
+    },
+    {
+      "stt": 242,
+      "name": "MIKU",
+      "colorBg": "#70adb7",
+      "preview": "https://i.ibb.co/94GSzcf/Miku.png"
+    },
+    {
+      "stt": 243,
+      "name": "MILIM",
+      "colorBg": "#dcaaa4",
+      "preview": "https://i.ibb.co/k6K9Vqx/Milim.png"
+    },
+    {
+      "stt": 244,
+      "name": "MINATO",
+      "colorBg": "#777",
+      "preview": "https://i.ibb.co/RgVkDj3/Minato.png"
+    },
+    {
+      "stt": 245,
+      "name": "MINATO MIO",
+      "colorBg": "#5b81d4",
+      "preview": "https://i.ibb.co/xqd7WP2/Minato-Mio.png"
+    },
+    {
+      "stt": 246,
+      "name": "MIRAI",
+      "colorBg": "#e08e7c",
+      "preview": "https://i.ibb.co/PxsKhGr/Mirai.png"
+    },
+    {
+      "stt": 247,
+      "name": "MIRAJANE",
+      "colorBg": "#947a96",
+      "preview": "https://i.ibb.co/q0c27Wk/Mirajane.png"
+    },
+    {
+      "stt": 248,
+      "name": "MISAKI TARO",
+      "colorBg": "#356fab",
+      "preview": "https://i.ibb.co/jkBYWgR/Misaki-Taro.png"
+    },
+    {
+      "stt": 249,
+      "name": "MISONO ALICEIN",
+      "colorBg": "#791da0",
+      "preview": "https://i.ibb.co/g7GLTKv/Misono-Alicein.png"
+    },
+    {
+      "stt": 250,
+      "name": "MITSUHA",
+      "colorBg": "#8f7fa4",
+      "preview": "https://i.ibb.co/8dKdg7z/Mitsuha.png"
+    },
+    {
+      "stt": 251,
+      "name": "MITSUKI",
+      "colorBg": "#599bd7",
+      "preview": "https://i.ibb.co/pfDFMH5/Mitsuki.png"
+    },
+    {
+      "stt": 252,
+      "name": "MITSUYA",
+      "colorBg": "#51597d",
+      "preview": "https://i.ibb.co/s1kLrKZ/Mitsuya.png"
+    },
+    {
+      "stt": 253,
+      "name": "MIYAMURA",
+      "colorBg": "#2397f0",
+      "preview": "https://i.ibb.co/4KwhTr1/Miyamura.png"
+    },
+    {
+      "stt": 254,
+      "name": "MIYUKI HOSHIZORA",
+      "colorBg": "#f6abd0",
+      "preview": "https://i.ibb.co/z4H1zkq/Miyuki-Hoshizora.png"
+    },
+    {
+      "stt": 255,
+      "name": "MIYUKI SHIBA",
+      "colorBg": "#48c7aa",
+      "preview": "https://i.ibb.co/mJbZ2nM/Miyuki-Shiba.png"
+    },
+    {
+      "stt": 256,
+      "name": "MIZUHARA CHIZURU",
+      "colorBg": "#ec8aa1",
+      "preview": "https://i.ibb.co/fSKTrFz/Mizuhara-Chizuru.png"
+    },
+    {
+      "stt": 257,
+      "name": "MONA",
+      "colorBg": "#7d58de",
+      "preview": "https://i.ibb.co/tQXwxkd/Mona.png"
+    },
+    {
+      "stt": 258,
+      "name": "MONIKA",
+      "colorBg": "#6b6cb3",
+      "preview": "https://i.ibb.co/10phvTL/Monika.png"
+    },
+    {
+      "stt": 259,
+      "name": "MUKURO HOSHIMIYA",
+      "colorBg": "#f5b274",
+      "preview": "https://i.ibb.co/4tbDRVJ/Mukuro-Hoshimiya.png"
+    },
+    {
+      "stt": 260,
+      "name": "MUZAN",
+      "colorBg": "#f13c1e",
+      "preview": "https://i.ibb.co/MhrDJNC/Muzan.png"
+    },
+    {
+      "stt": 261,
+      "name": "MYSTOGAN",
+      "colorBg": "#1c3b45",
+      "preview": "https://i.ibb.co/hZf6RG3/Mystogan.png"
+    },
+    {
+      "stt": 262,
+      "name": "NAGATO",
+      "colorBg": "#981d18",
+      "preview": "https://i.ibb.co/vJHGJnJ/Nagato.png"
+    },
+    {
+      "stt": 263,
+      "name": "NAGISA",
+      "colorBg": "#6e99c2",
+      "preview": "https://i.ibb.co/f8PNqjp/Nagisa.png"
+    },
+    {
+      "stt": 264,
+      "name": "NAKAJIMA ATSUSHI",
+      "colorBg": "#6164f0",
+      "preview": "https://i.ibb.co/W6GNMWQ/Nakajima-Atsushi.png"
+    },
+    {
+      "stt": 265,
+      "name": "NAKANO ICHIKA",
+      "colorBg": "#81b0d1",
+      "preview": "https://i.ibb.co/5FhFv7R/Nakano-Ichika.png"
+    },
+    {
+      "stt": 266,
+      "name": "NAKANO ITSUKI",
+      "colorBg": "#d0797f",
+      "preview": "https://i.ibb.co/7ypGHBs/Nakano-Itsuki.png"
+    },
+    {
+      "stt": 267,
+      "name": "NAKANO MIKU",
+      "colorBg": "#8d9ee0",
+      "preview": "https://i.ibb.co/w6302sM/Nakano-Miku.png"
+    },
+    {
+      "stt": 268,
+      "name": "NAKANO NINO",
+      "colorBg": "#8d8ad5",
+      "preview": "https://i.ibb.co/bzBCtmy/Nakano-Nino.png"
+    },
+    {
+      "stt": 269,
+      "name": "NAKANO YOTSUBA",
+      "colorBg": "#a1b369",
+      "preview": "https://i.ibb.co/MgmKqgr/Nakano-Yotsuba.png"
+    },
+    {
+      "stt": 270,
+      "name": "NAMI",
+      "colorBg": "#34a6b4",
+      "preview": "https://i.ibb.co/kK5YGf4/Nami.png"
+    },
+    {
+      "stt": 271,
+      "name": "NAMIDA",
+      "colorBg": "#ec5c38",
+      "preview": "https://i.ibb.co/sCZxKnT/Namida.png"
+    },
+    {
+      "stt": 272,
+      "name": "NANAMI",
+      "colorBg": "#5997a5",
+      "preview": "https://i.ibb.co/J7tbfpw/Nanami.png"
+    },
+    {
+      "stt": 273,
+      "name": "NANAMI KENTO",
+      "colorBg": "#2a6ac0",
+      "preview": "https://i.ibb.co/jhxZGbt/Nanami-Kento.png"
+    },
+    {
+      "stt": 274,
+      "name": "NANAMI MAMI",
+      "colorBg": "#e9cf75",
+      "preview": "https://i.ibb.co/bvfBtmD/Nanami-Mami.png"
+    },
+    {
+      "stt": 275,
+      "name": "NANASHI MUMEI",
+      "colorBg": "#1bbbc5",
+      "preview": "https://i.ibb.co/KWq63gb/Nanashi-Mumei.png"
+    },
+    {
+      "stt": 276,
+      "name": "NAO MIDORIKAWA",
+      "colorBg": "#7cd252",
+      "preview": "https://i.ibb.co/zHxVJH7/Nao-Midorikawa.png"
+    },
+    {
+      "stt": 277,
+      "name": "NAO TOMORI",
+      "colorBg": "#d6425d",
+      "preview": "https://i.ibb.co/Xtzx4DS/Nao-Tomori.png"
+    },
+    {
+      "stt": 278,
+      "name": "NAOFUMI",
+      "colorBg": "#64d252",
+      "preview": "https://i.ibb.co/NN6xWST/Naofumi.png"
+    },
+    {
+      "stt": 279,
+      "name": "NAOTO",
+      "colorBg": "#49a6e1",
+      "preview": "https://i.ibb.co/Xbv89H5/Naoto.png"
+    },
+    {
+      "stt": 280,
+      "name": "NARAKU",
+      "colorBg": "#9a739c",
+      "preview": "https://i.ibb.co/f8pQMLk/Naraku.png"
+    },
+    {
+      "stt": 281,
+      "name": "NARUTO",
+      "colorBg": "#f5742e",
+      "preview": "https://i.ibb.co/LNFt0x2/Naruto.png"
+    },
+    {
+      "stt": 282,
+      "name": "NARUTO 1",
+      "colorBg": "#ec7230",
+      "preview": "https://i.ibb.co/5YC0DRc/Naruto-1.png"
+    },
+    {
+      "stt": 283,
+      "name": "NASA",
+      "colorBg": "#48cbb7",
+      "preview": "https://i.ibb.co/cxzcjdS/Nasa.png"
+    },
+    {
+      "stt": 284,
+      "name": "NASTUKI",
+      "colorBg": "#f089ae",
+      "preview": "https://i.ibb.co/QHSx0pS/Nastuki.png"
+    },
+    {
+      "stt": 285,
+      "name": "NATSU",
+      "colorBg": "#b63232",
+      "preview": "https://i.ibb.co/C5s7M5X/Natsu.png"
+    },
+    {
+      "stt": 286,
+      "name": "NATSUKI",
+      "colorBg": "#eda2ab",
+      "preview": "https://i.ibb.co/6yLTyZJ/Natsuki.png"
+    },
+    {
+      "stt": 287,
+      "name": "NEKOMATA OKAYU",
+      "colorBg": "#a151e5",
+      "preview": "https://i.ibb.co/RYzd0Y8/Nekomata-Okayu.png"
+    },
+    {
+      "stt": 288,
+      "name": "NEZUKO",
+      "colorBg": "#ffa6ac",
+      "preview": "https://i.ibb.co/NrwMYYQ/Nezuko.png"
+    },
+    {
+      "stt": 289,
+      "name": "NICO",
+      "colorBg": "#555b8f",
+      "preview": "https://i.ibb.co/nmM9vyk/Nico.png"
+    },
+    {
+      "stt": 290,
+      "name": "NIER",
+      "colorBg": "#c8bfb4",
+      "preview": "https://i.ibb.co/YNdrpTC/Nier.png"
+    },
+    {
+      "stt": 291,
+      "name": "NOBITA",
+      "colorBg": "#e6b030",
+      "preview": "https://i.ibb.co/LvSrj1d/Nobita.png"
+    },
+    {
+      "stt": 292,
+      "name": "NORA NORAGAMI",
+      "colorBg": "#ce2f24",
+      "preview": "https://i.ibb.co/ZBbdJpG/Nora-Noragami.png"
+    },
+    {
+      "stt": 293,
+      "name": "OBITO",
+      "colorBg": "#1c4d68",
+      "preview": "https://i.ibb.co/VScsjKN/Obito.png"
+    },
+    {
+      "stt": 294,
+      "name": "OCHAKO URARAKA",
+      "colorBg": "#e9709e",
+      "preview": "https://i.ibb.co/Jy9YNL6/Ochako-Uraraka.png"
+    },
+    {
+      "stt": 295,
+      "name": "OIKAWA TOORU",
+      "colorBg": "#4a8a83",
+      "preview": "https://i.ibb.co/HrmyXSH/Oikawa-Tooru.png"
+    },
+    {
+      "stt": 296,
+      "name": "OJOU",
+      "colorBg": "#b71e2d",
+      "preview": "https://i.ibb.co/Gcrc7gj/Ojou.png"
+    },
+    {
+      "stt": 297,
+      "name": "OOKAMI MIO",
+      "colorBg": "#f72e38",
+      "preview": "https://i.ibb.co/Kq4J6W5/Ookami-Mio.png"
+    },
+    {
+      "stt": 298,
+      "name": "OREKI",
+      "colorBg": "#2b587e",
+      "preview": "https://i.ibb.co/rmhnMnB/Oreki.png"
+    },
+    {
+      "stt": 299,
+      "name": "ORIGAMI TOBIICHI",
+      "colorBg": "#6c9ec9",
+      "preview": "https://i.ibb.co/VH2zH6H/Origami-Tobiichi.png"
+    },
+    {
+      "stt": 300,
+      "name": "OROCHIMARU",
+      "colorBg": "#705c4e",
+      "preview": "https://i.ibb.co/dGC4vm3/Orochimaru.png"
+    },
+    {
+      "stt": 301,
+      "name": "OURO KRONII",
+      "colorBg": "#319be1",
+      "preview": "https://i.ibb.co/2vwhFtN/Ouro-Kronii.png"
+    },
+    {
+      "stt": 302,
+      "name": "PACHIN",
+      "colorBg": "#555",
+      "preview": "https://i.ibb.co/7QCk4D1/Pachin.png"
+    },
+    {
+      "stt": 303,
+      "name": "PAIMON",
+      "colorBg": "#f5b274",
+      "preview": "https://i.ibb.co/m5tHDRV/Paimon.png"
+    },
+    {
+      "stt": 304,
+      "name": "PEKORA",
+      "colorBg": "#738dd8",
+      "preview": "https://i.ibb.co/L8JLcPq/Pekora.png"
+    },
+    {
+      "stt": 305,
+      "name": "PEYAN",
+      "colorBg": "#8f8457",
+      "preview": "https://i.ibb.co/Yyyz6cB/Peyan.png"
+    },
+    {
+      "stt": 306,
+      "name": "PICO",
+      "colorBg": "#ffca4a",
+      "preview": "https://i.ibb.co/k2hW4Gn/Pico.png"
+    },
+    {
+      "stt": 307,
+      "name": "PIECK FINGER",
+      "colorBg": "#a18072",
+      "preview": "https://i.ibb.co/HgS86Xz/Pieck-Finger.png"
+    },
+    {
+      "stt": 308,
+      "name": "POWER",
+      "colorBg": "#d33838",
+      "preview": "https://i.ibb.co/6ncxyXT/Power.png"
+    },
+    {
+      "stt": 309,
+      "name": "QIQI TRINH",
+      "colorBg": "#8681ac",
+      "preview": "https://i.ibb.co/VmwgqMy/Qiqi-Trinh.png"
+    },
+    {
+      "stt": 310,
+      "name": "QUEEN",
+      "colorBg": "#b378e6",
+      "preview": "https://i.ibb.co/J31vB4x/Queen.png"
+    },
+    {
+      "stt": 311,
+      "name": "RAIDEN MEI",
+      "colorBg": "#5c74ce",
+      "preview": "https://i.ibb.co/T0WvMgH/Raiden-Mei.png"
+    },
+    {
+      "stt": 312,
+      "name": "RAIDEN MEI HERRSCHER",
+      "colorBg": "#d22a3c",
+      "preview": "https://i.ibb.co/n0Zz0MN/Raiden-Mei-Herrscher.png"
+    },
+    {
+      "stt": 313,
+      "name": "RAIDEN SHOGUN",
+      "colorBg": "#795dd1",
+      "preview": "https://i.ibb.co/HF6sX6S/Raiden-Shogun.png"
+    },
+    {
+      "stt": 314,
+      "name": "RAM",
+      "colorBg": "#f18695",
+      "preview": "https://i.ibb.co/59Z8z6d/Ram.png"
+    },
+    {
+      "stt": 315,
+      "name": "RAN",
+      "colorBg": "#8770b9",
+      "preview": "https://i.ibb.co/GMxNsDJ/Haitani-Ran.png"
+    },
+    {
+      "stt": 316,
+      "name": "RAPHTALIA",
+      "colorBg": "#d58390",
+      "preview": "https://i.ibb.co/G00KdVF/Raphtalia.png"
+    },
+    {
+      "stt": 317,
+      "name": "RAZOR",
+      "colorBg": "#b0b453",
+      "preview": "https://i.ibb.co/jZSstwn/Razor.png"
+    },
+    {
+      "stt": 318,
+      "name": "REI AYANAMI",
+      "colorBg": "#8184c0",
+      "preview": "https://i.ibb.co/3mP8g4R/Rei-Ayanami.png"
+    },
+    {
+      "stt": 319,
+      "name": "REIKA AOKI",
+      "colorBg": "#4291e9",
+      "preview": "https://i.ibb.co/ByfSjjr/Reika-Aoki.png"
+    },
+    {
+      "stt": 320,
+      "name": "REKI",
+      "colorBg": "#5a9ece",
+      "preview": "https://i.ibb.co/4s5fHzk/Reki.png"
+    },
+    {
+      "stt": 321,
+      "name": "REM",
+      "colorBg": "#52a1ff",
+      "preview": "https://i.ibb.co/mS7TY6H/Rem.png"
+    },
+    {
+      "stt": 322,
+      "name": "RENGE MIYAUCHI",
+      "colorBg": "#9990c2",
+      "preview": "https://i.ibb.co/Sm1w2YN/Renge-Miyauchi.png"
+    },
+    {
+      "stt": 323,
+      "name": "RENGOKU KYOJURO",
+      "colorBg": "#f7b431",
+      "preview": "https://i.ibb.co/wQ2jYQC/Rengoku-Kyojuro.png"
+    },
+    {
+      "stt": 324,
+      "name": "REVEN",
+      "colorBg": "#855fee",
+      "preview": "https://i.ibb.co/jZQn79p/Reven.png"
+    },
+    {
+      "stt": 325,
+      "name": "RIAS",
+      "colorBg": "#7656f0",
+      "preview": "https://i.ibb.co/9WYTN6G/Rias.png"
+    },
+    {
+      "stt": 326,
+      "name": "RIKKA",
+      "colorBg": "#62bdc1",
+      "preview": "https://i.ibb.co/2jLbhcB/Rikka.png"
+    },
+    {
+      "stt": 327,
+      "name": "RIMURU",
+      "colorBg": "#69a6dd",
+      "preview": "https://i.ibb.co/D7hY8B0/Rimuru.png"
+    },
+    {
+      "stt": 328,
+      "name": "RIMURU 1",
+      "colorBg": "#5d9bae",
+      "preview": "https://i.ibb.co/3BK8fbJ/Rimuru-1.png"
+    },
+    {
+      "stt": 329,
+      "name": "RIN SHIMA",
+      "colorBg": "#7099d6",
+      "preview": "https://i.ibb.co/PxMhQGW/Rin-Shima.png"
+    },
+    {
+      "stt": 330,
+      "name": "ROBOKO",
+      "colorBg": "#1caabd",
+      "preview": "https://i.ibb.co/QjN7syC/Roboko.png"
+    },
+    {
+      "stt": 331,
+      "name": "ROSARIA",
+      "colorBg": "#ad344d",
+      "preview": "https://i.ibb.co/j65bn45/Rosaria.png"
+    },
+    {
+      "stt": 332,
+      "name": "ROXY",
+      "colorBg": "#5173f2",
+      "preview": "https://i.ibb.co/R3370H2/Roxy.png"
+    },
+    {
+      "stt": 333,
+      "name": "RUBY ROSE",
+      "colorBg": "#1f1c25",
+      "preview": "https://i.ibb.co/1zGQXz0/Ruby-Rose.png"
+    },
+    {
+      "stt": 334,
+      "name": "RUDEUS",
+      "colorBg": "#eb494a",
+      "preview": "https://i.ibb.co/myT1Y1f/Rudeus.png"
+    },
+    {
+      "stt": 335,
+      "name": "RUNA",
+      "colorBg": "#ee8c6f",
+      "preview": "https://i.ibb.co/R3wg5bw/Runa.png"
+    },
+    {
+      "stt": 336,
+      "name": "RUSHIA",
+      "colorBg": "#17bbb9",
+      "preview": "https://i.ibb.co/D50Mqvt/Rushia.png"
+    },
+    {
+      "stt": 337,
+      "name": "RUV",
+      "colorBg": "#ae86c0",
+      "preview": "https://i.ibb.co/4Y8KnLH/Ruv.png"
+    },
+    {
+      "stt": 338,
+      "name": "SABER",
+      "colorBg": "#5a9ece",
+      "preview": "https://i.ibb.co/fHbSMLC/Saber.png"
+    },
+    {
+      "stt": 339,
+      "name": "SABITO",
+      "colorBg": "#9b9cc5",
+      "preview": "https://i.ibb.co/mtNT2Y7/Sabito.png"
+    },
+    {
+      "stt": 340,
+      "name": "SABO",
+      "colorBg": "#429ddc",
+      "preview": "https://i.ibb.co/NKMwCVB/Sabo.png"
+    },
+    {
+      "stt": 341,
+      "name": "SAGIRI",
+      "colorBg": "#32d3be",
+      "preview": "https://i.ibb.co/bXyXxhD/Izumi-Sagiri.png"
+    },
+    {
+      "stt": 342,
+      "name": "SAIKI KUSUO",
+      "colorBg": "#2ec38b",
+      "preview": "https://i.ibb.co/5sK4d5r/Saiki-Kusuo.png"
+    },
+    {
+      "stt": 343,
+      "name": "SAITAMA",
+      "colorBg": "#e5b646",
+      "preview": "https://i.ibb.co/4NTW1zC/Saitama.png"
+    },
+    {
+      "stt": 344,
+      "name": "SAKUMA RITSU",
+      "colorBg": "#4687c3",
+      "preview": "https://i.ibb.co/ZV8dkdr/Sakuma-Ritsu.png"
+    },
+    {
+      "stt": 345,
+      "name": "SAKURA",
+      "colorBg": "#cc7a7f",
+      "preview": "https://i.ibb.co/s27xgX3/Sakura.png"
+    },
+    {
+      "stt": 346,
+      "name": "SAKURA NANAMINE",
+      "colorBg": "#9fb764",
+      "preview": "https://i.ibb.co/55nzjrw/Sakura-Nanamine.png"
+    },
+    {
+      "stt": 347,
+      "name": "SAKURA SABER",
+      "colorBg": "#6ab9be",
+      "preview": "https://i.ibb.co/7YMMTRh/Sakura-Saber.png"
+    },
+    {
+      "stt": 348,
+      "name": "SAKURASAWA SUMI",
+      "colorBg": "#eb95ab",
+      "preview": "https://i.ibb.co/s5816MC/Sakurasawa-Sumi.png"
+    },
+    {
+      "stt": 349,
+      "name": "SANJI",
+      "colorBg": "#484538",
+      "preview": "https://i.ibb.co/HTyD5JS/Sanji.png"
+    },
+    {
+      "stt": 350,
+      "name": "SANS",
+      "colorBg": "#347fd8",
+      "preview": "https://i.ibb.co/7zRH8Cm/Sans.png"
+    },
+    {
+      "stt": 351,
+      "name": "SANZU",
+      "colorBg": "#d7337d",
+      "preview": "https://i.ibb.co/dQMmsFF/Sanzu.png"
+    },
+    {
+      "stt": 352,
+      "name": "SARASHINA RUKA",
+      "colorBg": "#72a6ca",
+      "preview": "https://i.ibb.co/TKDFh9H/Sarashina-Ruka.png"
+    },
+    {
+      "stt": 353,
+      "name": "SASORI",
+      "colorBg": "#b8525b",
+      "preview": "https://i.ibb.co/7JsyNS9/Sasori.png"
+    },
+    {
+      "stt": 354,
+      "name": "SASUKE",
+      "colorBg": "#6283a5",
+      "preview": "https://i.ibb.co/3WxJvBb/Sasuke.png"
+    },
+    {
+      "stt": 355,
+      "name": "SASUKE 1",
+      "colorBg": "#103555",
+      "preview": "https://i.ibb.co/NVwV2rR/Sasuke-1.png"
+    },
+    {
+      "stt": 356,
+      "name": "SATO KAZUMA",
+      "colorBg": "#5e9794",
+      "preview": "https://i.ibb.co/TkxBq9m/Sato-Kazuma.png"
+    },
+    {
+      "stt": 357,
+      "name": "SATORU GOJO",
+      "colorBg": "#5e4c7c",
+      "preview": "https://i.ibb.co/LgB1qKB/Satoru-Gojo.png"
+    },
+    {
+      "stt": 358,
+      "name": "SATOSHI",
+      "colorBg": "#288ce0",
+      "preview": "https://i.ibb.co/kJMxSbj/Satoshi.png"
+    },
+    {
+      "stt": 359,
+      "name": "SAWADA",
+      "colorBg": "#f24917",
+      "preview": "https://i.ibb.co/kmfjYDP/Sawada.png"
+    },
+    {
+      "stt": 360,
+      "name": "SAYORI",
+      "colorBg": "#ec8f80",
+      "preview": "https://i.ibb.co/dJ11289/Sayori.png"
+    },
+    {
+      "stt": 361,
+      "name": "SAYU",
+      "colorBg": "#ff9e2e",
+      "preview": "https://i.ibb.co/W3XXkMk/Sayu.png"
+    },
+    {
+      "stt": 362,
+      "name": "SAYU OGIWARA",
+      "colorBg": "#bea581",
+      "preview": "https://i.ibb.co/xm1MVTK/Sayu-Ogiwara.png"
+    },
+    {
+      "stt": 363,
+      "name": "SEELE VOLLEREI",
+      "colorBg": "#5469ed",
+      "preview": "https://i.ibb.co/6NQNZdN/Seele-Vollerei.png"
+    },
+    {
+      "stt": 364,
+      "name": "SENGOKU",
+      "colorBg": "#6574b4",
+      "preview": "https://i.ibb.co/zGxFHW0/Sengoku.png"
+    },
+    {
+      "stt": 365,
+      "name": "SENKO",
+      "colorBg": "#f5a933",
+      "preview": "https://i.ibb.co/w4G0ZpD/Senko.png"
+    },
+    {
+      "stt": 366,
+      "name": "SESSHOUMARU",
+      "colorBg": "#d93931",
+      "preview": "https://i.ibb.co/f49GQvt/Sesshoumaru.png"
+    },
+    {
+      "stt": 367,
+      "name": "SHANKS",
+      "colorBg": "#474e6a",
+      "preview": "https://i.ibb.co/t3BX7j4/Shanks.png"
+    },
+    {
+      "stt": 368,
+      "name": "SHERRY",
+      "colorBg": "#eb83c1",
+      "preview": "https://i.ibb.co/yRVMtCL/Sherry.png"
+    },
+    {
+      "stt": 369,
+      "name": "SHICHIMIYA",
+      "colorBg": "#f8879e",
+      "preview": "https://i.ibb.co/MPTYfjp/Shichimiya.png"
+    },
+    {
+      "stt": 370,
+      "name": "SHIDO",
+      "colorBg": "#4d5190",
+      "preview": "https://i.ibb.co/1KRJK4m/Shido.png"
+    },
+    {
+      "stt": 371,
+      "name": "SHIDO ITSUKA",
+      "colorBg": "#5b87bd",
+      "preview": "https://i.ibb.co/6X8jrV1/Shido-Itsuka.png"
+    },
+    {
+      "stt": 372,
+      "name": "SHIGEO KAGEYAMA",
+      "colorBg": "#56377a",
+      "preview": "https://i.ibb.co/mGrZVpX/Shigeo-Kageyama.png"
+    },
+    {
+      "stt": 373,
+      "name": "SHIKAMARU",
+      "colorBg": "#6f7f5e",
+      "preview": "https://i.ibb.co/pWctHYf/Shikamaru.png"
+    },
+    {
+      "stt": 374,
+      "name": "SHIKI",
+      "colorBg": "#d92d25",
+      "preview": "https://i.ibb.co/mG1L66h/Shiki.png"
+    },
+    {
+      "stt": 375,
+      "name": "SHIN",
+      "colorBg": "#de4646",
+      "preview": "https://i.ibb.co/LxMj1f4/Shin.png"
+    },
+    {
+      "stt": 376,
+      "name": "SHINAZUGAWA SANEMI",
+      "colorBg": "#669c50",
+      "preview": "https://i.ibb.co/G320CWZ/Shinazugawa-Sanemi.png"
+    },
+    {
+      "stt": 377,
+      "name": "SHINICHI",
+      "colorBg": "#55b5ff",
+      "preview": "https://i.ibb.co/R3QK9sH/Shinichi.png"
+    },
+    {
+      "stt": 378,
+      "name": "SHINICHIRO SANO",
+      "colorBg": "#52b8e3",
+      "preview": "https://i.ibb.co/VB82G8B/Shinichiro-Sano.png"
+    },
+    {
+      "stt": 379,
+      "name": "SHINOA HIRAGI",
+      "colorBg": "#8f7fa3",
+      "preview": "https://i.ibb.co/mBP0Wk7/Shinoa-Hiragi.png"
+    },
+    {
+      "stt": 380,
+      "name": "SHINOMIYA KAGUYA",
+      "colorBg": "#d1373d",
+      "preview": "https://i.ibb.co/rmv1Nq4/Shinomiya-Kaguya.png"
+    },
+    {
+      "stt": 381,
+      "name": "SHIORI ASAGIRI",
+      "colorBg": "#6677a6",
+      "preview": "https://i.ibb.co/mG7SRSm/Shiori-Asagiri.png"
+    },
+    {
+      "stt": 382,
+      "name": "SHIROGANE NOEL",
+      "colorBg": "#7ccc5a",
+      "preview": "https://i.ibb.co/cw7mMyS/Shirogane-Noel.png"
+    },
+    {
+      "stt": 383,
+      "name": "SHIZUKA",
+      "colorBg": "#6d97d1",
+      "preview": "https://i.ibb.co/zs5gsjS/Shizuka.png"
+    },
+    {
+      "stt": 384,
+      "name": "SHOPHIE",
+      "colorBg": "#5492b9",
+      "preview": "https://i.ibb.co/ZSjBmHw/Shophie.png"
+    },
+    {
+      "stt": 385,
+      "name": "SHU KURENAI",
+      "colorBg": "#b43c4e",
+      "preview": "https://i.ibb.co/M9GhnHW/Shu-Kurenai.png"
+    },
+    {
+      "stt": 386,
+      "name": "SHUNA",
+      "colorBg": "#e03f70",
+      "preview": "https://i.ibb.co/XzDyNML/Shuna.png"
+    },
+    {
+      "stt": 387,
+      "name": "SIESTA",
+      "colorBg": "#70a8e1",
+      "preview": "https://i.ibb.co/r0B9bRP/Siesta.png"
+    },
+    {
+      "stt": 388,
+      "name": "SIESTA 1",
+      "colorBg": "#5d8db5",
+      "preview": "https://i.ibb.co/4NnpQp5/Siesta-1.png"
+    },
+    {
+      "stt": 389,
+      "name": "SISTINE FIBEL",
+      "colorBg": "#7066a4",
+      "preview": "https://i.ibb.co/C6gZknT/Sistine-Fibel.png"
+    },
+    {
+      "stt": 390,
+      "name": "SLEEPY ASH",
+      "colorBg": "#58a5d6",
+      "preview": "https://i.ibb.co/N95BnPc/Sleepy-Ash.png"
+    },
+    {
+      "stt": 391,
+      "name": "SMILEY",
+      "colorBg": "#f78889",
+      "preview": "https://i.ibb.co/yRHD0CM/Smiley.png"
+    },
+    {
+      "stt": 392,
+      "name": "SONGOKU",
+      "colorBg": "#f69e3f",
+      "preview": "https://i.ibb.co/fYH6KbQ/Songoku.png"
+    },
+    {
+      "stt": 393,
+      "name": "SONOKO",
+      "colorBg": "#4c88cb",
+      "preview": "https://i.ibb.co/k4hvPtL/Sonoko.png"
+    },
+    {
+      "stt": 394,
+      "name": "SOPMOD",
+      "colorBg": "#e1393f",
+      "preview": "https://i.ibb.co/NTyvHWx/Sopmod.png"
+    },
+    {
+      "stt": 395,
+      "name": "SOUEI",
+      "colorBg": "#6b8aad",
+      "preview": "https://i.ibb.co/VqRVMzc/Souei.png"
+    },
+    {
+      "stt": 396,
+      "name": "STARFIRE",
+      "colorBg": "#af2b38",
+      "preview": "https://i.ibb.co/d0212Bw/Starfire.png"
+    },
+    {
+      "stt": 397,
+      "name": "STING EUCLIFFE",
+      "colorBg": "#4d709b",
+      "preview": "https://i.ibb.co/0C2JFhw/Sting-Eucliffe.png"
+    },
+    {
+      "stt": 398,
+      "name": "SUBARU",
+      "colorBg": "#ff9e2e",
+      "preview": "https://i.ibb.co/z5sYBwx/Subaru.png"
+    },
+    {
+      "stt": 399,
+      "name": "SUBARU 1",
+      "colorBg": "#3cb3d1",
+      "preview": "https://i.ibb.co/B2QWtf2/Subaru-1.png"
+    },
+    {
+      "stt": 400,
+      "name": "SUGAWARA",
+      "colorBg": "#66acd0",
+      "preview": "https://i.ibb.co/25mZvkY/Sugawara.png"
+    },
+    {
+      "stt": 401,
+      "name": "SUGUHA",
+      "colorBg": "#71b2b1",
+      "preview": "https://i.ibb.co/RpW0k3j/Suguha.png"
+    },
+    {
+      "stt": 402,
+      "name": "SUKUNA",
+      "colorBg": "#c66163",
+      "preview": "https://i.ibb.co/r2h0ZxZ/Sukuna.png"
+    },
+    {
+      "stt": 403,
+      "name": "SUNA",
+      "colorBg": "#de322e",
+      "preview": "https://i.ibb.co/W5pVMVR/Suna.png"
+    },
+    {
+      "stt": 404,
+      "name": "SUNGJINWOO",
+      "colorBg": "#294c6d",
+      "preview": "https://i.ibb.co/YN5HgSY/Sungjinwoo.png"
+    },
+    {
+      "stt": 405,
+      "name": "SYALIS",
+      "colorBg": "#ae9bc9",
+      "preview": "https://i.ibb.co/MyzMLbd/Syalis.png"
+    },
+    {
+      "stt": 406,
+      "name": "SYLPHY",
+      "colorBg": "#9ed463",
+      "preview": "https://i.ibb.co/QH1HvMV/Sylphy.png"
+    },
+    {
+      "stt": 407,
+      "name": "TAKEGAWA HOTARU",
+      "colorBg": "#82d8f0",
+      "preview": "https://i.ibb.co/gDkK8g1/Takegawa-Hotaru.png"
+    },
+    {
+      "stt": 408,
+      "name": "TAKEMICHI",
+      "colorBg": "#3ea8c6",
+      "preview": "https://i.ibb.co/GC7GXdd/Takemichi.png"
+    },
+    {
+      "stt": 409,
+      "name": "TAKI",
+      "colorBg": "#539bc5",
+      "preview": "https://i.ibb.co/Pr8NFTV/Taki.png"
+    },
+    {
+      "stt": 410,
+      "name": "TAKT ASAHINA",
+      "colorBg": "#65a2c2",
+      "preview": "https://i.ibb.co/5B91PWZ/Takt-Asahina.png"
+    },
+    {
+      "stt": 411,
+      "name": "TAMAYO",
+      "colorBg": "#9661c7",
+      "preview": "https://i.ibb.co/xJn0DdR/Tamayo.png"
+    },
+    {
+      "stt": 412,
+      "name": "TANAKA",
+      "colorBg": "#da853e",
+      "preview": "https://i.ibb.co/BPF7nfF/Tanaka.png"
+    },
+    {
+      "stt": 413,
+      "name": "TANJIRO",
+      "colorBg": "#3b9172",
+      "preview": "https://i.ibb.co/t87wxZ8/Tanjiro.png"
+    },
+    {
+      "stt": 414,
+      "name": "TANMOSHI",
+      "colorBg": "#5f88b8",
+      "preview": "https://i.ibb.co/rwCJ64Q/Tanmoshi.png"
+    },
+    {
+      "stt": 415,
+      "name": "TATSUYA SHIBA",
+      "colorBg": "#48c7aa",
+      "preview": "https://i.ibb.co/PrbzgS1/Tatsuya-Shiba.png"
+    },
+    {
+      "stt": 416,
+      "name": "TATUMAKI",
+      "colorBg": "#1a562f",
+      "preview": "https://i.ibb.co/Hx6vQCV/Tatumaki.png"
+    },
+    {
+      "stt": 417,
+      "name": "TEMARI",
+      "colorBg": "#a095b5",
+      "preview": "https://i.ibb.co/Kw579Y6/Temari.png"
+    },
+    {
+      "stt": 418,
+      "name": "TENTEN",
+      "colorBg": "#47282b",
+      "preview": "https://i.ibb.co/LRKjhFJ/Tenten.png"
+    },
+    {
+      "stt": 419,
+      "name": "TOBIRAMA",
+      "colorBg": "#3d6499",
+      "preview": "https://i.ibb.co/7Vv9yfB/Tobirama.png"
+    },
+    {
+      "stt": 420,
+      "name": "TODOROKI",
+      "colorBg": "#575468",
+      "preview": "https://i.ibb.co/Sm6b2Xr/Todoroki.png"
+    },
+    {
+      "stt": 421,
+      "name": "TOGA HIMIKO",
+      "colorBg": "#cf7048",
+      "preview": "https://i.ibb.co/F7CS5q8/Toga-Himiko.png"
+    },
+    {
+      "stt": 422,
+      "name": "TOGE INUMAKI",
+      "colorBg": "#5d6595",
+      "preview": "https://i.ibb.co/syV2Q5T/Toge-Inumaki.png"
+    },
+    {
+      "stt": 423,
+      "name": "TOHNO SHIKI",
+      "colorBg": "#4470d6",
+      "preview": "https://i.ibb.co/NTMPwT5/Tohno-Shiki.png"
+    },
+    {
+      "stt": 424,
+      "name": "TOHRU",
+      "colorBg": "#ffc560",
+      "preview": "https://i.ibb.co/KV9x7Nv/Tohru.png"
+    },
+    {
+      "stt": 425,
+      "name": "TOKITO MUICHIRO",
+      "colorBg": "#2c8889",
+      "preview": "https://i.ibb.co/WFkx8rC/Tokito-Muichiro.png"
+    },
+    {
+      "stt": 426,
+      "name": "TOMIE",
+      "colorBg": "#5e4fd0",
+      "preview": "https://i.ibb.co/dJD95j3/Tomie.png"
+    },
+    {
+      "stt": 427,
+      "name": "TOMIOKA GIYUU",
+      "colorBg": "#223657",
+      "preview": "https://i.ibb.co/VjGsztw/Tomioka-Giyuu.png"
+    },
+    {
+      "stt": 428,
+      "name": "TOMOE",
+      "colorBg": "#6d7094",
+      "preview": "https://i.ibb.co/xLj0VFN/Tomoe.png"
+    },
+    {
+      "stt": 429,
+      "name": "TOMOE 1",
+      "colorBg": "#60ced9",
+      "preview": "https://i.ibb.co/rG9RVSh/Tomoe-1.png"
+    },
+    {
+      "stt": 430,
+      "name": "TOTORO",
+      "colorBg": "#c5b388",
+      "preview": "https://i.ibb.co/kJHVHTL/Totoro.png"
+    },
+    {
+      "stt": 431,
+      "name": "TRACER",
+      "colorBg": "#f8c335",
+      "preview": "https://i.ibb.co/J79DYnk/Tracer.png"
+    },
+    {
+      "stt": 432,
+      "name": "TRAFALGAR LAW",
+      "colorBg": "#efb23e",
+      "preview": "https://i.ibb.co/cx9jPrR/Trafalgar-Law.png"
+    },
+    {
+      "stt": 433,
+      "name": "TSUBASA",
+      "colorBg": "#329dcf",
+      "preview": "https://i.ibb.co/zV0bQyR/Tsubasa.png"
+    },
+    {
+      "stt": 434,
+      "name": "TSUKASA",
+      "colorBg": "#924bfd",
+      "preview": "https://i.ibb.co/K7jCYS1/Tsukasa.png"
+    },
+    {
+      "stt": 435,
+      "name": "TSUKISHIMA",
+      "colorBg": "#233579",
+      "preview": "https://i.ibb.co/kmKfZzt/Tsukishima.png"
+    },
+    {
+      "stt": 436,
+      "name": "TUSNADE",
+      "colorBg": "#4c7c60",
+      "preview": "https://i.ibb.co/wsPkMp3/Tusnade.png"
+    },
+    {
+      "stt": 437,
+      "name": "UCHIHA SHISUI",
+      "colorBg": "#595f41",
+      "preview": "https://i.ibb.co/chhhnK2/Uchiha-Shisui.png"
+    },
+    {
+      "stt": 438,
+      "name": "UESUGI FUUTAROU",
+      "colorBg": "#547ac7",
+      "preview": "https://i.ibb.co/pRpgh8s/Uesugi-Fuutarou.png"
+    },
+    {
+      "stt": 439,
+      "name": "UMARU",
+      "colorBg": "#ee8c44",
+      "preview": "https://i.ibb.co/pX8GsLk/Umaru.png"
+    },
+    {
+      "stt": 440,
+      "name": "UNMEI",
+      "colorBg": "#d83e49",
+      "preview": "https://i.ibb.co/Pt5rxpb/Unmei.png"
+    },
+    {
+      "stt": 441,
+      "name": "USAGI TSUKINO",
+      "colorBg": "#6fb6e8",
+      "preview": "https://i.ibb.co/4W1XwVk/Usagi-Tsukino.png"
+    },
+    {
+      "stt": 442,
+      "name": "UTO AMATSUKA",
+      "colorBg": "#3ba9ef",
+      "preview": "https://i.ibb.co/pKG97k3/Uto-Amatsuka.png"
+    },
+    {
+      "stt": 443,
+      "name": "UZAKI",
+      "colorBg": "#5b7eae",
+      "preview": "https://i.ibb.co/bFbTBTv/Uzaki.png"
+    },
+    {
+      "stt": 444,
+      "name": "UZUI TENGEN",
+      "colorBg": "#d52d2d",
+      "preview": "https://i.ibb.co/KjnNWWH/Uzui-Tengen.png"
+    },
+    {
+      "stt": 445,
+      "name": "VALT AOI",
+      "colorBg": "#438be2",
+      "preview": "https://i.ibb.co/LZfD9zw/Valt-Aoi.png"
+    },
+    {
+      "stt": 446,
+      "name": "VANITAS",
+      "colorBg": "#4c91cb",
+      "preview": "https://i.ibb.co/4mPnW6T/Vanitas.png"
+    },
+    {
+      "stt": 447,
+      "name": "VEGETA",
+      "colorBg": "#223f89",
+      "preview": "https://i.ibb.co/9nHHNd8/Vegeta.png"
+    },
+    {
+      "stt": 448,
+      "name": "VELDORA",
+      "colorBg": "#cb3248",
+      "preview": "https://i.ibb.co/gj4yVwF/Veldora.png"
+    },
+    {
+      "stt": 449,
+      "name": "VENTI",
+      "colorBg": "#179a6a",
+      "preview": "https://i.ibb.co/mcfPSgJ/Venti.png"
+    },
+    {
+      "stt": 450,
+      "name": "VERMOUTH",
+      "colorBg": "#94a853",
+      "preview": "https://i.ibb.co/HDCmMMF/Vermouth.png"
+    },
+    {
+      "stt": 451,
+      "name": "VIOLET",
+      "colorBg": "#71a7d4",
+      "preview": "https://i.ibb.co/BqHQmPC/Violet.png"
+    },
+    {
+      "stt": 452,
+      "name": "WAKABAYASHI",
+      "colorBg": "#ec5353",
+      "preview": "https://i.ibb.co/BVC1PkK/Wakabayashi.png"
+    },
+    {
+      "stt": 453,
+      "name": "WENDY",
+      "colorBg": "#7183aa",
+      "preview": "https://i.ibb.co/PGRKJKJ/Wendy.png"
+    },
+    {
+      "stt": 454,
+      "name": "XIAO",
+      "colorBg": "#359e9b",
+      "preview": "https://i.ibb.co/8mFBnRj/Xiao.png"
+    },
+    {
+      "stt": 455,
+      "name": "YAE MIKO",
+      "colorBg": "#fa8da1",
+      "preview": "https://i.ibb.co/hCt3t3n/Yae-Miko.png"
+    },
+    {
+      "stt": 456,
+      "name": "YAE SAKURA",
+      "colorBg": "#ec95ae",
+      "preview": "https://i.ibb.co/VmfhcqQ/Yae-Sakura.png"
+    },
+    {
+      "stt": 457,
+      "name": "YAHIKO",
+      "colorBg": "#7d2727",
+      "preview": "https://i.ibb.co/jbFJ5tv/Yahiko.png"
+    },
+    {
+      "stt": 458,
+      "name": "YAMATO",
+      "colorBg": "#bd3030",
+      "preview": "https://i.ibb.co/qDX3pQ5/Yamato.png"
+    },
+    {
+      "stt": 459,
+      "name": "YAMAUCHI SAKURA",
+      "colorBg": "#64608a",
+      "preview": "https://i.ibb.co/tCCMKjH/Yamauchi-Sakura.png"
+    },
+    {
+      "stt": 460,
+      "name": "YATO",
+      "colorBg": "#505061",
+      "preview": "https://i.ibb.co/9NYbtSv/Yato.png"
+    },
+    {
+      "stt": 461,
+      "name": "YAYOI KISE",
+      "colorBg": "#fbd85e",
+      "preview": "https://i.ibb.co/mD97yZB/Yayoi-Kise.png"
+    },
+    {
+      "stt": 462,
+      "name": "YORIICHI",
+      "colorBg": "#b83b2e",
+      "preview": "https://i.ibb.co/tskr186/Yoriichi.png"
+    },
+    {
+      "stt": 463,
+      "name": "YOSANO AKIKO",
+      "colorBg": "#7b8ed4",
+      "preview": "https://i.ibb.co/G7VbbRP/Yosano-Akiko.png"
+    },
+    {
+      "stt": 464,
+      "name": "YOSHIMURA ETO",
+      "colorBg": "#6f253e",
+      "preview": "https://i.ibb.co/rGKbGqX/Yoshimura-Eto.png"
+    },
+    {
+      "stt": 465,
+      "name": "YUGI",
+      "colorBg": "#47a0e5",
+      "preview": "https://i.ibb.co/hV3Jq5T/Yugi.png"
+    },
+    {
+      "stt": 466,
+      "name": "YUI HIRASAWA",
+      "colorBg": "#f3af5f",
+      "preview": "https://i.ibb.co/jJ1tFXy/Yui-Hirasawa.png"
+    },
+    {
+      "stt": 467,
+      "name": "YUKINOSHITA",
+      "colorBg": "#338edb",
+      "preview": "https://i.ibb.co/VJyHzfC/Yukinoshita.png"
+    },
+    {
+      "stt": 468,
+      "name": "YUMA KUGA",
+      "colorBg": "#e63030",
+      "preview": "https://i.ibb.co/VTzrcYD/Yuma-Kuga.png"
+    },
+    {
+      "stt": 469,
+      "name": "YUMEKO",
+      "colorBg": "#ba312b",
+      "preview": "https://i.ibb.co/rQ1xkzc/Yumeko.png"
+    },
+    {
+      "stt": 470,
+      "name": "YUNO",
+      "colorBg": "#338f44",
+      "preview": "https://i.ibb.co/YXvQg3j/Yuno.png"
+    },
+    {
+      "stt": 471,
+      "name": "YURI",
+      "colorBg": "#967ea8",
+      "preview": "https://i.ibb.co/VT1FCnC/Yuri.png"
+    },
+    {
+      "stt": 472,
+      "name": "YUU OTOSAKA",
+      "colorBg": "#87635f",
+      "preview": "https://i.ibb.co/QbX41MQ/Yuu-Otosaka.png"
+    },
+    {
+      "stt": 473,
+      "name": "YUUKI",
+      "colorBg": "#c870d3",
+      "preview": "https://i.ibb.co/N35nBPf/Yuuki.png"
+    },
+    {
+      "stt": 474,
+      "name": "YUUKI AINE",
+      "colorBg": "#5b81d4",
+      "preview": "https://i.ibb.co/7rJZJJZ/Yuuki-Aine.png"
+    },
+    {
+      "stt": 475,
+      "name": "YUUKO KANOE",
+      "colorBg": "#b91c1c",
+      "preview": "https://i.ibb.co/4j7L68Q/Yuuko-Kanoe.png"
+    },
+    {
+      "stt": 476,
+      "name": "YUZAKI MASA",
+      "colorBg": "#72b1a9",
+      "preview": "https://i.ibb.co/44R4d6d/Yuzaki-Masa.png"
+    },
+    {
+      "stt": 477,
+      "name": "YUZUHA SHIBA",
+      "colorBg": "#f09da5",
+      "preview": "https://i.ibb.co/NSvNJ81/Yuzuha-Shiba.png"
+    },
+    {
+      "stt": 478,
+      "name": "ZENITSU",
+      "colorBg": "#fabd4b",
+      "preview": "https://i.ibb.co/c8rrRv7/Zenitsu.png"
+    },
+    {
+      "stt": 479,
+      "name": "ZEREF",
+      "colorBg": "#55606e",
+      "preview": "https://i.ibb.co/FnBtKRr/Zeref.png"
+    },
+    {
+      "stt": 480,
+      "name": "ZERO TWO",
+      "colorBg": "#d89194",
+      "preview": "https://i.ibb.co/4NDQtgZ/Zero-Two.png"
+    },
+    {
+      "stt": 481,
+      "name": "ZETSU",
+      "colorBg": "#6f8461",
+      "preview": "https://i.ibb.co/nMHsHS6/Zetsu.png"
+    },
+    {
+      "stt": 482,
+      "name": "ZORO",
+      "colorBg": "#2e483e",
+      "preview": "https://i.ibb.co/588VFDt/Zoro.png"
+    },
+    {
+      "stt": 483,
+      "name": "BOY 1",
+      "colorBg": "#f8ca3e",
+      "preview": null
+    },
+    {
+      "stt": 484,
+      "name": "BOY 2",
+      "colorBg": "#9fc177",
+      "preview": null
+    },
+    {
+      "stt": 485,
+      "name": "BOY 3",
+      "colorBg": "#3f4a8a",
+      "preview": null
+    },
+    {
+      "stt": 486,
+      "name": "BOY 4",
+      "colorBg": "#e2bc5f",
+      "preview": null
+    },
+    {
+      "stt": 487,
+      "name": "BOY 5",
+      "colorBg": "#345763",
+      "preview": null
+    },
+    {
+      "stt": 488,
+      "name": "BOY 6",
+      "colorBg": "#6b54c0",
+      "preview": null
+    },
+    {
+      "stt": 489,
+      "name": "BOY 7",
+      "colorBg": "#49a8e4",
+      "preview": null
+    },
+    {
+      "stt": 490,
+      "name": "GIRL 1",
+      "colorBg": "#8cbcc7",
+      "preview": null
+    },
+    {
+      "stt": 491,
+      "name": "GIRL 2",
+      "colorBg": "#d2c5b4",
+      "preview": null
+    },
+    {
+      "stt": 492,
+      "name": "GIRL 3",
+      "colorBg": "#f9da97",
+      "preview": null
+    },
+    {
+      "stt": 493,
+      "name": "QIN SHI HUANG",
+      "colorBg": "#d93c3c",
+      "preview": null
+    },
+    {
+      "stt": 494,
+      "name": "PROVATO PECORA",
+      "colorBg": "#a5d24f",
+      "preview": null
+    },
+    {
+      "stt": 495,
+      "name": "KEYARU",
+      "colorBg": "#df8f58",
+      "preview": null
+    },
+    {
+      "stt": 496,
+      "name": "DESTINY",
+      "colorBg": "#c33144",
+      "preview": null
+    },
+    {
+      "stt": 497,
+      "name": "JUNKO ENOSHIMA",
+      "colorBg": "#bf2b3d",
+      "preview": null
+    },
+    {
+      "stt": 498,
+      "name": "NAGITO KOMAEDA",
+      "colorBg": "#63866f",
+      "preview": null
+    },
+    {
+      "stt": 499,
+      "name": "AOMINE DAIKI",
+      "colorBg": "#ed6d39",
+      "preview": null
+    },
+    {
+      "stt": 500,
+      "name": "SATSUKI MOMOI",
+      "colorBg": "#59c9d6",
+      "preview": null
+    },
+    {
+      "stt": 501,
+      "name": "JACK THE RIPPER",
+      "colorBg": "#af3c3c",
+      "preview": null
+    },
+    {
+      "stt": 502,
+      "name": "IZAYOI SAKAMAKI",
+      "colorBg": "#707eba",
+      "preview": null
+    },
+    {
+      "stt": 503,
+      "name": "SOMA YUKIHIRA",
+      "colorBg": "#ffcf5b",
+      "preview": null
+    },
+    {
+      "stt": 504,
+      "name": "SERINUMA KAE",
+      "colorBg": "#c17fc6",
+      "preview": null
+    },
+    {
+      "stt": 505,
+      "name": "HYANNA NATSU",
+      "colorBg": "#ef909b",
+      "preview": null
+    },
+    {
+      "stt": 506,
+      "name": "SAOTOME MARY",
+      "colorBg": "#c14b54",
+      "preview": null
+    },
+    {
+      "stt": 507,
+      "name": "AMU HINAMORI",
+      "colorBg": "#f690a8",
+      "preview": null
+    },
+    {
+      "stt": 508,
+      "name": "MAHIRU BANBA",
+      "colorBg": "#9892d1",
+      "preview": null
+    },
+    {
+      "stt": 509,
+      "name": "ADAGAKI AKI",
+      "colorBg": "#e5abcc",
+      "preview": null
+    },
+    {
+      "stt": 510,
+      "name": "AISHIA",
+      "colorBg": "#fbadd0",
+      "preview": null
+    },
+    {
+      "stt": 511,
+      "name": "ISAAC FOSTER",
+      "colorBg": "#66585b",
+      "preview": null
+    },
+    {
+      "stt": 512,
+      "name": "OWEN KNIGHT",
+      "colorBg": "#a0a0a0",
+      "preview": null
+    },
+    {
+      "stt": 513,
+      "name": "GEORDO STUART",
+      "colorBg": "#f7ba59",
+      "preview": null
+    },
+    {
+      "stt": 514,
+      "name": "ISHIGAMI YU",
+      "colorBg": "#71b8c8",
+      "preview": null
+    },
+    {
+      "stt": 515,
+      "name": "SHINRA KUSAKABE",
+      "colorBg": "#6ec9db",
+      "preview": null
+    },
+    {
+      "stt": 516,
+      "name": "RAI",
+      "colorBg": "#9b1418",
+      "preview": null
+    },
+    {
+      "stt": 517,
+      "name": "KOUKO KAGA",
+      "colorBg": "#fa9a4c",
+      "preview": null
+    },
+    {
+      "stt": 518,
+      "name": "TALULAH",
+      "colorBg": "#1f0e0e",
+      "preview": null
+    },
+    {
+      "stt": 519,
+      "name": "LIRIN",
+      "colorBg": "#ef94ac",
+      "preview": null
+    },
+    {
+      "stt": 520,
+      "name": "MIKAELA HYAKUYA",
+      "colorBg": "#42373b",
+      "preview": null
+    },
+    {
+      "stt": 521,
+      "name": "HANAKOIZUMI",
+      "colorBg": "#f6b857",
+      "preview": null
+    },
+    {
+      "stt": 522,
+      "name": "NOIR STADIA",
+      "colorBg": "#56d087",
+      "preview": null
+    },
+    {
+      "stt": 523,
+      "name": "ARCHER",
+      "colorBg": "#ab9b9b",
+      "preview": null
+    },
+    {
+      "stt": 524,
+      "name": "MASUZU NATSUKAWA",
+      "colorBg": "#8d9bde",
+      "preview": null
+    },
+    {
+      "stt": 525,
+      "name": "NORIKO SONOZAKI",
+      "colorBg": "#5c9ad9",
+      "preview": null
+    },
+    {
+      "stt": 526,
+      "name": "YUU MASHIRO",
+      "colorBg": "#6cc0b4",
+      "preview": null
+    },
+    {
+      "stt": 527,
+      "name": "HOSHIZAKI RIKA",
+      "colorBg": "#f5a56b",
+      "preview": null
+    },
+    {
+      "stt": 528,
+      "name": "MORGIANA",
+      "colorBg": "#f56b99",
+      "preview": null
+    },
+    {
+      "stt": 529,
+      "name": "ASUKA TANAKA",
+      "colorBg": "#c6a67b",
+      "preview": null
+    },
+    {
+      "stt": 530,
+      "name": "BOJJI",
+      "colorBg": "#4e8ad0",
+      "preview": null
+    },
+    {
+      "stt": 531,
+      "name": "HARRY POTTER",
+      "colorBg": "#bf2121",
+      "preview": null
+    },
+    {
+      "stt": 532,
+      "name": "TANYA DEGURECHAFF",
+      "colorBg": "#679066",
+      "preview": null
+    },
+    {
+      "stt": 533,
+      "name": "SANAE",
+      "colorBg": "#85c276",
+      "preview": null
+    },
+    {
+      "stt": 534,
+      "name": "JAIL",
+      "colorBg": "#6364b3",
+      "preview": null
+    },
+    {
+      "stt": 535,
+      "name": "LICHT BACH",
+      "colorBg": "#b0374b",
+      "preview": null
+    },
+    {
+      "stt": 536,
+      "name": "MENHERA",
+      "colorBg": "#f88c93",
+      "preview": null
+    },
+    {
+      "stt": 537,
+      "name": "CATARINA",
+      "colorBg": "#3ab0d5",
+      "preview": null
+    },
+    {
+      "stt": 538,
+      "name": "ISUZU SENTO",
+      "colorBg": "#cb362e",
+      "preview": null
+    },
+    {
+      "stt": 539,
+      "name": "MELIODAS",
+      "colorBg": "#fcb84c",
+      "preview": null
+    },
+    {
+      "stt": 540,
+      "name": "FUMINO FURUHASHI",
+      "colorBg": "#6b9df1",
+      "preview": null
+    },
+    {
+      "stt": 541,
+      "name": "HAJIME HINATA",
+      "colorBg": "#677b5d",
+      "preview": null
+    },
+    {
+      "stt": 542,
+      "name": "LEONARDO",
+      "colorBg": "#3475d7",
+      "preview": null
+    },
+    {
+      "stt": 543,
+      "name": "MATSUDA TAKATO",
+      "colorBg": "#31acea",
+      "preview": null
+    },
+    {
+      "stt": 544,
+      "name": "SUNG JINWOO",
+      "colorBg": "#294c6d",
+      "preview": null
+    },
+    {
+      "stt": 545,
+      "name": "HACHIMAN",
+      "colorBg": "#3c7cd4",
+      "preview": null
+    },
+    {
+      "stt": 546,
+      "name": "NADESHIKO",
+      "colorBg": "#ff8fc3",
+      "preview": null
+    },
+    {
+      "stt": 547,
+      "name": "ICHIKA USAMI",
+      "colorBg": "#f977bf",
+      "preview": null
+    },
+    {
+      "stt": 548,
+      "name": "YURI AYATO",
+      "colorBg": "#e87797",
+      "preview": null
+    },
+    {
+      "stt": 549,
+      "name": "HAKU",
+      "colorBg": "#5a9dc4",
+      "preview": null
+    },
+    {
+      "stt": 550,
+      "name": "RACHEL GARDNER",
+      "colorBg": "#f4c790",
+      "preview": null
+    },
+    {
+      "stt": 551,
+      "name": "BEELZEBUB",
+      "colorBg": "#2ed177",
+      "preview": null
+    },
+    {
+      "stt": 552,
+      "name": "HANAMICHI SAKURAGI",
+      "colorBg": "#d02a21",
+      "preview": null
+    },
+    {
+      "stt": 553,
+      "name": "CLAUDE DE ALGER OBELIA",
+      "colorBg": "#e4b653",
+      "preview": null
+    },
+    {
+      "stt": 554,
+      "name": "RAKI KISEKI",
+      "colorBg": "#28a0bc",
+      "preview": null
+    },
+    {
+      "stt": 555,
+      "name": "NOÉ ARCHIVISTE",
+      "colorBg": "#6a5dca",
+      "preview": null
+    },
+    {
+      "stt": 556,
+      "name": "NOE ARCHIVISTE",
+      "colorBg": "#9892d1",
+      "preview": null
+    },
+    {
+      "stt": 557,
+      "name": "AKUTAGAWA RYUUNOSUKE",
+      "colorBg": "#6152d0",
+      "preview": null
+    },
+    {
+      "stt": 558,
+      "name": "SAKURAYASHIKI",
+      "colorBg": "#d879b1",
+      "preview": null
+    },
+    {
+      "stt": 559,
+      "name": "YUKIHANA LAMY",
+      "colorBg": "#63aae7",
+      "preview": null
+    },
+    {
+      "stt": 560,
+      "name": "KEIJI AKAASHI",
+      "colorBg": "#f2d85e",
+      "preview": null
+    },
+    {
+      "stt": 561,
+      "name": "SARVENTE",
+      "colorBg": "#fc4fa5",
+      "preview": null
+    },
+    {
+      "stt": 562,
+      "name": "SELEVER",
+      "colorBg": "#d85bab",
+      "preview": null
+    },
+    {
+      "stt": 563,
+      "name": "ISHIGAMI SENKU",
+      "colorBg": "#30b05d",
+      "preview": null
+    },
+    {
+      "stt": 564,
+      "name": "KIYOTAKA AYANOKÅJI",
+      "colorBg": "#ae3758",
+      "preview": null
+    },
+    {
+      "stt": 565,
+      "name": "KAHONO",
+      "colorBg": "#ca3838",
+      "preview": null
+    },
+    {
+      "stt": 566,
+      "name": "LOREMASTER",
+      "colorBg": "#cd3333",
+      "preview": null
+    },
+    {
+      "stt": 567,
+      "name": "ASUKA",
+      "colorBg": "#f74545",
+      "preview": null
+    },
+    {
+      "stt": 568,
+      "name": "REZE",
+      "colorBg": "#678ee6",
+      "preview": null
+    },
+    {
+      "stt": 569,
+      "name": "HAJIME NAGUMO",
+      "colorBg": "#d53535",
+      "preview": null
+    },
+    {
+      "stt": 570,
+      "name": "KARIN",
+      "colorBg": "#e68599",
+      "preview": null
+    },
+    {
+      "stt": 571,
+      "name": "KAMADO TANJIRO",
+      "colorBg": "#fd3f3f",
+      "preview": null
+    },
+    {
+      "stt": 572,
+      "name": "YORICHI",
+      "colorBg": "#a24b50",
+      "preview": null
+    },
+    {
+      "stt": 573,
+      "name": "DOUMA",
+      "colorBg": "#842a3f",
+      "preview": null
+    },
+    {
+      "stt": 574,
+      "name": "HANTENGU",
+      "colorBg": "#f2b335",
+      "preview": null
+    },
+    {
+      "stt": 575,
+      "name": "GYOKKO",
+      "colorBg": "#9c4da5",
+      "preview": null
+    },
+    {
+      "stt": 576,
+      "name": "DAKI",
+      "colorBg": "#d73359",
+      "preview": null
+    },
+    {
+      "stt": 577,
+      "name": "KAIGAKU",
+      "colorBg": "#5390d7",
+      "preview": null
+    },
+    {
+      "stt": 578,
+      "name": "RUI",
+      "colorBg": "#881d2c",
+      "preview": null
+    },
+    {
+      "stt": 579,
+      "name": "ISAGI",
+      "colorBg": "#4ab7e4",
+      "preview": null
+    },
+    {
+      "stt": 580,
+      "name": "BACHIRA",
+      "colorBg": "#ffe146",
+      "preview": null
+    },
+    {
+      "stt": 581,
+      "name": "CHIGIRI",
+      "colorBg": "#d85e70",
+      "preview": null
+    },
+    {
+      "stt": 582,
+      "name": "NAGI",
+      "colorBg": "#03e4ff",
+      "preview": null
+    },
+    {
+      "stt": 583,
+      "name": "KIMIHIKO KIMIZUKA",
+      "colorBg": "#7ca5e2",
+      "preview": null
+    },
+    {
+      "stt": 584,
+      "name": "NAGISA NATSUNAGI",
+      "colorBg": "#7ca5e2",
+      "preview": null
+    },
+    {
+      "stt": 585,
+      "name": "ELMA",
+      "colorBg": "#6767e6",
+      "preview": null
+    },
+    {
+      "stt": 586,
+      "name": "KANNA KAMUI",
+      "colorBg": "#eb9ead",
+      "preview": null
+    },
+    {
+      "stt": 587,
+      "name": "LUCOA",
+      "colorBg": "#abca5b",
+      "preview": null
+    },
+    {
+      "stt": 588,
+      "name": "SAKUTA AZUSAGAWA",
+      "colorBg": "#c19674",
+      "preview": null
+    },
+    {
+      "stt": 589,
+      "name": "MAI SAKURAJIMA",
+      "colorBg": "#717ad3",
+      "preview": null
+    },
+    {
+      "stt": 590,
+      "name": "AZUSAGAWA KAEDE",
+      "colorBg": "#92706b",
+      "preview": null
+    },
+    {
+      "stt": 591,
+      "name": "TOMOE KOGA",
+      "colorBg": "#d8ac88",
+      "preview": null
+    },
+    {
+      "stt": 592,
+      "name": "TOKOYAMI TOWA",
+      "colorBg": "#ff9ec3",
+      "preview": null
+    },
+    {
+      "stt": 593,
+      "name": "HOSHIMACHI SUISEI",
+      "colorBg": "#68a2dc",
+      "preview": null
+    },
+    {
+      "stt": 594,
+      "name": "TSUNOMAKI WATAME",
+      "colorBg": "#e8a593",
+      "preview": null
+    },
+    {
+      "stt": 595,
+      "name": "NAKIRI AYAME",
+      "colorBg": "#b71e2d",
+      "preview": null
+    },
+    {
+      "stt": 596,
+      "name": "NOELLE",
+      "colorBg": "#ed6793",
+      "preview": null
+    },
+    {
+      "stt": 597,
+      "name": "ZHONGLI",
+      "colorBg": "#fac542",
+      "preview": null
+    },
+    {
+      "stt": 598,
+      "name": "KAEDEHARA KAZUHA",
+      "colorBg": "#d1362e",
+      "preview": null
+    },
+    {
+      "stt": 599,
+      "name": "SCARAMOUCHE",
+      "colorBg": "#f57c4d",
+      "preview": null
+    },
+    {
+      "stt": 600,
+      "name": "TARTAGLIA",
+      "colorBg": "#5e8ed4",
+      "preview": null
+    },
+    {
+      "stt": 601,
+      "name": "AETHER",
+      "colorBg": "#e4b671",
+      "preview": null
+    },
+    {
+      "stt": 602,
+      "name": "LUMINE",
+      "colorBg": "#6f9fc4",
+      "preview": null
+    },
+    {
+      "stt": 603,
+      "name": "GOROU",
+      "colorBg": "#d68c48",
+      "preview": null
+    },
+    {
+      "stt": 604,
+      "name": "KOMI SHOUKO",
+      "colorBg": "#7a6adb",
+      "preview": null
+    },
+    {
+      "stt": 605,
+      "name": "NAJIMI OSANA",
+      "colorBg": "#b26adb",
+      "preview": null
+    },
+    {
+      "stt": 606,
+      "name": "DAMIAN DESMOND",
+      "colorBg": "#de484c",
+      "preview": null
+    },
+    {
+      "stt": 607,
+      "name": "ANYA FORGER",
+      "colorBg": "#7fcbb6",
+      "preview": null
+    },
+    {
+      "stt": 608,
+      "name": "DORORO",
+      "colorBg": "#7b9a74",
+      "preview": null
+    },
+    {
+      "stt": 609,
+      "name": "GASAI YUNO",
+      "colorBg": "#7179cf",
+      "preview": null
+    },
+    {
+      "stt": 610,
+      "name": "URYUU MINENE",
+      "colorBg": "#9b5ab4",
+      "preview": null
+    },
+    {
+      "stt": 611,
+      "name": "SUZUKI IRUMA",
+      "colorBg": "#3fafe8",
+      "preview": null
+    },
+    {
+      "stt": 612,
+      "name": "OPERA",
+      "colorBg": "#d13d33",
+      "preview": null
+    },
+    {
+      "stt": 613,
+      "name": "KURAPIKA",
+      "colorBg": "#497cf2",
+      "preview": null
+    },
+    {
+      "stt": 614,
+      "name": "HISOKA MOROW",
+      "colorBg": "#f05c80",
+      "preview": null
+    },
+    {
+      "stt": 615,
+      "name": "ALTER SABER",
+      "colorBg": "#4950f2",
+      "preview": null
+    },
+    {
+      "stt": 616,
+      "name": "REKI KYAN",
+      "colorBg": "#5a9ece",
+      "preview": null
+    },
+    {
+      "stt": 617,
+      "name": "MIYA CHINEN",
+      "colorBg": "#97db34",
+      "preview": null
+    },
+    {
+      "stt": 618,
+      "name": "YATO NORAGAMI",
+      "colorBg": "#505061",
+      "preview": null
+    },
+    {
+      "stt": 619,
+      "name": "YAKO",
+      "colorBg": "#f05c80",
+      "preview": null
+    },
+    {
+      "stt": 620,
+      "name": "KOU MINAMOTO",
+      "colorBg": "#ed9b40",
+      "preview": null
+    },
+    {
+      "stt": 621,
+      "name": "AKANE AOI",
+      "colorBg": "#a684d1",
+      "preview": null
+    },
+    {
+      "stt": 622,
+      "name": "LUGH TUATHA DE",
+      "colorBg": "#6480db",
+      "preview": null
+    },
+    {
+      "stt": 623,
+      "name": "DIA VICORNE",
+      "colorBg": "#76d9e0",
+      "preview": null
+    },
+    {
+      "stt": 624,
+      "name": "REIJI",
+      "colorBg": "#478cff",
+      "preview": null
+    },
+    {
+      "stt": 625,
+      "name": "SEI IORI",
+      "colorBg": "#70cac8",
+      "preview": null
+    },
+    {
+      "stt": 626,
+      "name": "IZUMI MIYAMURA",
+      "colorBg": "#2397f0",
+      "preview": null
+    },
+    {
+      "stt": 627,
+      "name": "KYOUKO HORI",
+      "colorBg": "#ffb72b",
+      "preview": null
+    },
+    {
+      "stt": 628,
+      "name": "JENNET",
+      "colorBg": "#f9e182",
+      "preview": null
+    },
+    {
+      "stt": 629,
+      "name": "HIRO",
+      "colorBg": "#63c5ed",
+      "preview": null
+    },
+    {
+      "stt": 630,
+      "name": "AZUL ASHENGROTTO",
+      "colorBg": "#813bd8",
+      "preview": null
+    },
+    {
+      "stt": 631,
+      "name": "IDIA SHROUD",
+      "colorBg": "#5ea5f5",
+      "preview": null
+    },
+    {
+      "stt": 632,
+      "name": "EPEL FELMIER",
+      "colorBg": "#8e8ae8",
+      "preview": null
+    },
+    {
+      "stt": 633,
+      "name": "MALLEUS DRACONIA",
+      "colorBg": "#6fa142",
+      "preview": null
+    },
+    {
+      "stt": 634,
+      "name": "ISSEI HYOUDOU",
+      "colorBg": "#ef3d3e",
+      "preview": null
+    },
+    {
+      "stt": 635,
+      "name": "HIMEJIMA AKENO",
+      "colorBg": "#9a5fb1",
+      "preview": null
+    },
+    {
+      "stt": 636,
+      "name": "RIAS GREMORY",
+      "colorBg": "#7656f0",
+      "preview": null
+    },
+    {
+      "stt": 637,
+      "name": "KOMARI KOSHIGAYA",
+      "colorBg": "#ffcb87",
+      "preview": null
+    },
+    {
+      "stt": 638,
+      "name": "NATSUMI KOSHIGAYA",
+      "colorBg": "#fb9487",
+      "preview": null
+    },
+    {
+      "stt": 639,
+      "name": "HOTARU ICHIJOU",
+      "colorBg": "#fb9487",
+      "preview": null
+    },
+    {
+      "stt": 640,
+      "name": "TAMAKO KITASHIRAKAWA",
+      "colorBg": "#6eafdd",
+      "preview": null
+    },
+    {
+      "stt": 641,
+      "name": "MOCHIZOU OJI",
+      "colorBg": "#80bbd1",
+      "preview": null
+    },
+    {
+      "stt": 642,
+      "name": "ANKO KITASHIRAKAWA",
+      "colorBg": "#e69cb3",
+      "preview": null
+    },
+    {
+      "stt": 643,
+      "name": "TOGASHI YUUTA",
+      "colorBg": "#9c796b",
+      "preview": null
+    },
+    {
+      "stt": 644,
+      "name": "DEKOMORI",
+      "colorBg": "#d3b17d",
+      "preview": null
+    },
+    {
+      "stt": 645,
+      "name": "NIBUTANI SHINKA",
+      "colorBg": "#da3c3f",
+      "preview": null
+    },
+    {
+      "stt": 646,
+      "name": "TOUKA TAKANASHI",
+      "colorBg": "#ce6b81",
+      "preview": null
+    },
+    {
+      "stt": 647,
+      "name": "RIMURU TEMPEST",
+      "colorBg": "#5d9bae",
+      "preview": null
+    },
+    {
+      "stt": 648,
+      "name": "SHIZUE IZAWA",
+      "colorBg": "#44aca6",
+      "preview": null
+    },
+    {
+      "stt": 649,
+      "name": "SHION",
+      "colorBg": "#b681d1",
+      "preview": null
+    },
+    {
+      "stt": 650,
+      "name": "BENIMARU",
+      "colorBg": "#d75447",
+      "preview": null
+    },
+    {
+      "stt": 651,
+      "name": "OSAMU DAZAI",
+      "colorBg": "#6e7e9e",
+      "preview": null
+    },
+    {
+      "stt": 652,
+      "name": "EDOGAWA RANPO",
+      "colorBg": "#b57c6f",
+      "preview": null
+    },
+    {
+      "stt": 653,
+      "name": "KYOUKA IZUMI",
+      "colorBg": "#f7bc56",
+      "preview": null
+    },
+    {
+      "stt": 654,
+      "name": "SATOU KAZUMA",
+      "colorBg": "#5e9794",
+      "preview": null
+    },
+    {
+      "stt": 655,
+      "name": "NOBARA KUGISAKI",
+      "colorBg": "#8658b4",
+      "preview": null
+    },
+    {
+      "stt": 656,
+      "name": "MAKI ZENIN",
+      "colorBg": "#3a8270",
+      "preview": null
+    },
+    {
+      "stt": 657,
+      "name": "MECHAMARU",
+      "colorBg": "#5fb84a",
+      "preview": null
+    },
+    {
+      "stt": 658,
+      "name": "MIWA KASUMI",
+      "colorBg": "#4dbfef",
+      "preview": null
+    },
+    {
+      "stt": 659,
+      "name": "YUTA OKKOTSU",
+      "colorBg": "#4187d6",
+      "preview": null
+    },
+    {
+      "stt": 660,
+      "name": "NERO",
+      "colorBg": "#515da3",
+      "preview": null
+    },
+    {
+      "stt": 661,
+      "name": "MEREOLEONA",
+      "colorBg": "#d26d41",
+      "preview": null
+    },
+    {
+      "stt": 662,
+      "name": "ARGO",
+      "colorBg": "#72c757",
+      "preview": null
+    },
+    {
+      "stt": 663,
+      "name": "KIRITO SUMMER",
+      "colorBg": "#72d2dd",
+      "preview": null
+    },
+    {
+      "stt": 664,
+      "name": "SILICA SUMMER",
+      "colorBg": "#72c3dd",
+      "preview": null
+    },
+    {
+      "stt": 665,
+      "name": "YUI",
+      "colorBg": "#e69cb3",
+      "preview": null
+    },
+    {
+      "stt": 666,
+      "name": "TODOROKI SHOUTO",
+      "colorBg": "#2581ff",
+      "preview": null
+    },
+    {
+      "stt": 667,
+      "name": "JIRO KYOKA",
+      "colorBg": "#6c69d9",
+      "preview": null
+    },
+    {
+      "stt": 668,
+      "name": "CAMIE UTSUSHIMI",
+      "colorBg": "#f6b544",
+      "preview": null
+    },
+    {
+      "stt": 669,
+      "name": "KEIGO TAKAMI",
+      "colorBg": "#cb4c35",
+      "preview": null
+    },
+    {
+      "stt": 670,
+      "name": "TENYA IIDA",
+      "colorBg": "#588bca",
+      "preview": null
+    },
+    {
+      "stt": 671,
+      "name": "TOMURA",
+      "colorBg": "#7295a4",
+      "preview": null
+    },
+    {
+      "stt": 672,
+      "name": "TSUYU ASUI",
+      "colorBg": "#40bc52",
+      "preview": null
+    },
+    {
+      "stt": 673,
+      "name": "ARMIN ARLERT",
+      "colorBg": "#f6b857",
+      "preview": null
+    },
+    {
+      "stt": 674,
+      "name": "ISHIZAKI",
+      "colorBg": "#4f88d8",
+      "preview": null
+    },
+    {
+      "stt": 675,
+      "name": "MAYU",
+      "colorBg": "#b2ac92",
+      "preview": null
+    },
+    {
+      "stt": 676,
+      "name": "LUO TIANYI",
+      "colorBg": "#61a1dc",
+      "preview": null
+    },
+    {
+      "stt": 677,
+      "name": "IA",
+      "colorBg": "#f488a2",
+      "preview": null
+    },
+    {
+      "stt": 678,
+      "name": "OLIVER",
+      "colorBg": "#d5bb74",
+      "preview": null
+    },
+    {
+      "stt": 679,
+      "name": "MIKUO",
+      "colorBg": "#4fc4c2",
+      "preview": null
+    },
+    {
+      "stt": 680,
+      "name": "HATSUME MIKU",
+      "colorBg": "#90c3be",
+      "preview": null
+    },
+    {
+      "stt": 681,
+      "name": "GAKUPO KAMUI",
+      "colorBg": "#d192de",
+      "preview": null
+    },
+    {
+      "stt": 682,
+      "name": "KAITO",
+      "colorBg": "#3294d4",
+      "preview": null
+    },
+    {
+      "stt": 683,
+      "name": "YUZUKI YUKARI",
+      "colorBg": "#d474c2",
+      "preview": null
+    },
+    {
+      "stt": 684,
+      "name": "KAGAMINE LEN",
+      "colorBg": "#f2d42c",
+      "preview": null
+    },
+    {
+      "stt": 685,
+      "name": "KAGAMINE RIN",
+      "colorBg": "#f2d42c",
+      "preview": null
+    },
+    {
+      "stt": 686,
+      "name": "HINATA SHOYO",
+      "colorBg": "#508cb6",
+      "preview": null
+    },
+    {
+      "stt": 687,
+      "name": "ATSUMU",
+      "colorBg": "#5274ca",
+      "preview": null
+    },
+    {
+      "stt": 688,
+      "name": "YAMAGUCHI TADASHI",
+      "colorBg": "#e78c48",
+      "preview": null
+    },
+    {
+      "stt": 689,
+      "name": "SATORI TENDOU",
+      "colorBg": "#cd445a",
+      "preview": null
+    },
+    {
+      "stt": 690,
+      "name": "KITA",
+      "colorBg": "#a8545f",
+      "preview": null
+    },
+    {
+      "stt": 691,
+      "name": "KIYOKO SHIMIZU",
+      "colorBg": "#6bb5c5",
+      "preview": null
+    },
+    {
+      "stt": 692,
+      "name": "HITOKA YACHI",
+      "colorBg": "#c8b28a",
+      "preview": null
+    },
+    {
+      "stt": 693,
+      "name": "KAYANO KAEDE",
+      "colorBg": "#75cba2",
+      "preview": null
+    },
+    {
+      "stt": 694,
+      "name": "ECHIDNA",
+      "colorBg": "#cc9eff",
+      "preview": null
+    },
+    {
+      "stt": 695,
+      "name": "FELIX",
+      "colorBg": "#7bd5eb",
+      "preview": null
+    },
+    {
+      "stt": 696,
+      "name": "JULIUS",
+      "colorBg": "#9a77d6",
+      "preview": null
+    },
+    {
+      "stt": 697,
+      "name": "PACK",
+      "colorBg": "#a987d7",
+      "preview": null
+    },
+    {
+      "stt": 698,
+      "name": "REINHARD",
+      "colorBg": "#7460da",
+      "preview": null
+    },
+    {
+      "stt": 699,
+      "name": "KOITO MINASE",
+      "colorBg": "#dc7bb3",
+      "preview": null
+    },
+    {
+      "stt": 700,
+      "name": "TATSUMAKI",
+      "colorBg": "#2d7d48",
+      "preview": null
+    },
+    {
+      "stt": 701,
+      "name": "GAROU",
+      "colorBg": "#b92020",
+      "preview": null
+    },
+    {
+      "stt": 702,
+      "name": "ROKURO ENMADO",
+      "colorBg": "#d63f3f",
+      "preview": null
+    },
+    {
+      "stt": 703,
+      "name": "BENIO ADASHINO",
+      "colorBg": "#824cb8",
+      "preview": null
+    },
+    {
+      "stt": 704,
+      "name": "LEGOSI",
+      "colorBg": "#598e74",
+      "preview": null
+    },
+    {
+      "stt": 705,
+      "name": "ROUIS",
+      "colorBg": "#eaae6a",
+      "preview": null
+    },
+    {
+      "stt": 706,
+      "name": "HARU",
+      "colorBg": "#eebeb1",
+      "preview": null
+    },
+    {
+      "stt": 707,
+      "name": "DEATH RYUK",
+      "colorBg": "#5135e0",
+      "preview": null
+    },
+    {
+      "stt": 708,
+      "name": "LIGHT YAGAMI",
+      "colorBg": "#d74f3e",
+      "preview": null
+    },
+    {
+      "stt": 709,
+      "name": "SERENA",
+      "colorBg": "#e97882",
+      "preview": null
+    },
+    {
+      "stt": 710,
+      "name": "PIKACHU",
+      "colorBg": "#f8ce3a",
+      "preview": null
+    },
+    {
+      "stt": 711,
+      "name": "TSUTARJA",
+      "colorBg": "#abca5b",
+      "preview": null
+    },
+    {
+      "stt": 712,
+      "name": "CHARIZARD",
+      "colorBg": "#f48f40",
+      "preview": null
+    },
+    {
+      "stt": 713,
+      "name": "YOSHIKAGE KIRA",
+      "colorBg": "#7a79b2",
+      "preview": null
+    },
+    {
+      "stt": 714,
+      "name": "KOGORO MOURI",
+      "colorBg": "#4178d4",
+      "preview": null
+    },
+    {
+      "stt": 715,
+      "name": "HEIJI HATTORI",
+      "colorBg": "#1991bf",
+      "preview": null
+    },
+    {
+      "stt": 716,
+      "name": "MARY SERA",
+      "colorBg": "#56a28c",
+      "preview": null
+    },
+    {
+      "stt": 717,
+      "name": "KUDO YUKIKO",
+      "colorBg": "#c58acf",
+      "preview": null
+    },
+    {
+      "stt": 718,
+      "name": "KISAKI ERI",
+      "colorBg": "#8181cd",
+      "preview": null
+    },
+    {
+      "stt": 719,
+      "name": "HINATA TACHIBANA",
+      "colorBg": "#e68e92",
+      "preview": null
+    },
+    {
+      "stt": 720,
+      "name": "NAOTO TACHIBANA",
+      "colorBg": "#49a6e1",
+      "preview": null
+    },
+    {
+      "stt": 721,
+      "name": "MANJIRO SANO [MIKEY]",
+      "colorBg": "#f5c442",
+      "preview": null
+    },
+    {
+      "stt": 722,
+      "name": "EMMA SANO",
+      "colorBg": "#d6ba62",
+      "preview": null
+    },
+    {
+      "stt": 723,
+      "name": "KEN RYUGUJI [DRAKEN]",
+      "colorBg": "#1f242a",
+      "preview": null
+    },
+    {
+      "stt": 724,
+      "name": "TETTA KISAKI",
+      "colorBg": "#caab2f",
+      "preview": null
+    },
+    {
+      "stt": 725,
+      "name": "CHIFUYU MATSUNO",
+      "colorBg": "#243231",
+      "preview": null
+    },
+    {
+      "stt": 726,
+      "name": "TAKASHI MITSUYA",
+      "colorBg": "#51597d",
+      "preview": null
+    },
+    {
+      "stt": 727,
+      "name": "KEISUKE BAJI",
+      "colorBg": "#6b625b",
+      "preview": null
+    },
+    {
+      "stt": 728,
+      "name": "KAKUCHOU HITTO",
+      "colorBg": "#4a56a2",
+      "preview": null
+    },
+    {
+      "stt": 729,
+      "name": "KAZUTORA HANEMIYA",
+      "colorBg": "#d7ba61",
+      "preview": null
+    },
+    {
+      "stt": 730,
+      "name": "SHUJI HANMA",
+      "colorBg": "#7d957d",
+      "preview": null
+    },
+    {
+      "stt": 731,
+      "name": "IMAUSHI WAKASA",
+      "colorBg": "#869592",
+      "preview": null
+    },
+    {
+      "stt": 732,
+      "name": "TAKEOMI AKASHI",
+      "colorBg": "#8b6b9e",
+      "preview": null
+    },
+    {
+      "stt": 733,
+      "name": "NAHOYA KAWATA",
+      "colorBg": "#f78889",
+      "preview": null
+    },
+    {
+      "stt": 734,
+      "name": "SOUYA KAWATA",
+      "colorBg": "#58cae2",
+      "preview": null
+    },
+    {
+      "stt": 735,
+      "name": "HARUCHIYO SANZU",
+      "colorBg": "#d7337d",
+      "preview": null
+    },
+    {
+      "stt": 736,
+      "name": "HAYASHIDA HARUKI",
+      "colorBg": "#555",
+      "preview": null
+    },
+    {
+      "stt": 737,
+      "name": "RYOHEI HAYASHI",
+      "colorBg": "#8f8457",
+      "preview": null
+    },
+    {
+      "stt": 738,
+      "name": "HAKKAI SHIBA",
+      "colorBg": "#638ac3",
+      "preview": null
+    },
+    {
+      "stt": 739,
+      "name": "HAJIME KOKONOI",
+      "colorBg": "#5839cd",
+      "preview": null
+    },
+    {
+      "stt": 740,
+      "name": "ARASHI KEIZO",
+      "colorBg": "#e2be2f",
+      "preview": null
+    },
+    {
+      "stt": 741,
+      "name": "GOKU ULTRA INSTINCT",
+      "colorBg": "#5284b2",
+      "preview": null
+    },
+    {
+      "stt": 742,
+      "name": "SONGOKU BLUE",
+      "colorBg": "#40bec6",
+      "preview": null
+    },
+    {
+      "stt": 743,
+      "name": "SONGOKU GOD",
+      "colorBg": "#e63041",
+      "preview": null
+    },
+    {
+      "stt": 744,
+      "name": "SONGOKU SSJ1",
+      "colorBg": "#f6c223",
+      "preview": null
+    },
+    {
+      "stt": 745,
+      "name": "SONGOKU SSJ2",
+      "colorBg": "#f6c223",
+      "preview": null
+    },
+    {
+      "stt": 746,
+      "name": "SONGOKU SSJ3",
+      "colorBg": "#ffd24a",
+      "preview": null
+    },
+    {
+      "stt": 747,
+      "name": "SONGOKU SSJ4",
+      "colorBg": "#f74448",
+      "preview": null
+    },
+    {
+      "stt": 748,
+      "name": "KEFLA",
+      "colorBg": "#7fb63f",
+      "preview": null
+    },
+    {
+      "stt": 749,
+      "name": "PICCOLO",
+      "colorBg": "#71ba35",
+      "preview": null
+    },
+    {
+      "stt": 750,
+      "name": "MAVIS VERMILION",
+      "colorBg": "#efb563",
+      "preview": null
+    },
+    {
+      "stt": 751,
+      "name": "CARLA",
+      "colorBg": "#e77ec7",
+      "preview": null
+    },
+    {
+      "stt": 752,
+      "name": "VIRGO",
+      "colorBg": "#6ec9db",
+      "preview": null
+    },
+    {
+      "stt": 753,
+      "name": "BOA HANCOCK",
+      "colorBg": "#d53053",
+      "preview": null
+    },
+    {
+      "stt": 754,
+      "name": "CORAZON",
+      "colorBg": "#c28386",
+      "preview": null
+    },
+    {
+      "stt": 755,
+      "name": "VINSMOKE NIJI",
+      "colorBg": "#3f70a8",
+      "preview": null
+    },
+    {
+      "stt": 756,
+      "name": "VINSMOKE ICHIJI",
+      "colorBg": "#b64238",
+      "preview": null
+    },
+    {
+      "stt": 757,
+      "name": "VINSMOKE YONJI",
+      "colorBg": "#63bc43",
+      "preview": null
+    },
+    {
+      "stt": 758,
+      "name": "VINSMOKE SANJI",
+      "colorBg": "#eac545",
+      "preview": null
+    },
+    {
+      "stt": 759,
+      "name": "KIKUNOJO",
+      "colorBg": "#c874e1",
+      "preview": null
+    },
+    {
+      "stt": 760,
+      "name": "KAIDO",
+      "colorBg": "#6253ad",
+      "preview": null
+    },
+    {
+      "stt": 761,
+      "name": "SAKAZUKI",
+      "colorBg": "#a73c48",
+      "preview": null
+    },
+    {
+      "stt": 762,
+      "name": "MIHAWK",
+      "colorBg": "#3e78e3",
+      "preview": null
+    },
+    {
+      "stt": 763,
+      "name": "SIR CROCODILE",
+      "colorBg": "#7fb63f",
+      "preview": null
+    },
+    {
+      "stt": 764,
+      "name": "CARROT",
+      "colorBg": "#ef9f77",
+      "preview": null
+    },
+    {
+      "stt": 765,
+      "name": "ENEL",
+      "colorBg": "#ffa032",
+      "preview": null
+    },
+    {
+      "stt": 766,
+      "name": "NARUTO KCM2",
+      "colorBg": "#fbbe54",
+      "preview": null
+    },
+    {
+      "stt": 767,
+      "name": "HARUNO SAKURA",
+      "colorBg": "#cc7a7f",
+      "preview": null
+    },
+    {
+      "stt": 768,
+      "name": "SENJU TSUNADE",
+      "colorBg": "#4c7c60",
+      "preview": null
+    },
+    {
+      "stt": 769,
+      "name": "JIRAIYA",
+      "colorBg": "#834f55",
+      "preview": null
+    },
+    {
+      "stt": 770,
+      "name": "PAIN YAHIKO",
+      "colorBg": "#7d2727",
+      "preview": null
+    },
+    {
+      "stt": 771,
+      "name": "MADARA RIKUDOU",
+      "colorBg": "#598e74",
+      "preview": null
+    },
+    {
+      "stt": 772,
+      "name": "INDRA UCHIHA",
+      "colorBg": "#901b1b",
+      "preview": null
+    },
+    {
+      "stt": 773,
+      "name": "UCHIHA IZUNA",
+      "colorBg": "#da3c3f",
+      "preview": null
+    },
+    {
+      "stt": 774,
+      "name": "NEJI",
+      "colorBg": "#7c8e7c",
+      "preview": null
+    },
+    {
+      "stt": 775,
+      "name": "OTSUTSUKI KAGUYA",
+      "colorBg": "#789ccc",
+      "preview": null
+    },
+    {
+      "stt": 776,
+      "name": "KURAMA",
+      "colorBg": "#f88e4a",
+      "preview": null
+    },
+    {
+      "stt": 777,
+      "name": "HYUGA HANABI",
+      "colorBg": "#a94646",
+      "preview": null
+    },
+    {
+      "stt": 778,
+      "name": "RIN NOHARA",
+      "colorBg": "#cd9e9e",
+      "preview": null
+    },
+    {
+      "stt": 779,
+      "name": "IRUKA",
+      "colorBg": "#517676",
+      "preview": null
+    },
+    {
+      "stt": 780,
+      "name": "DANZO",
+      "colorBg": "#956fa9",
+      "preview": null
+    },
+    {
+      "stt": 781,
+      "name": "IZUMI UCHIHA",
+      "colorBg": "#956fa9",
+      "preview": null
+    },
+    {
+      "stt": 782,
+      "name": "SAI",
+      "colorBg": "#868c9c",
+      "preview": null
+    },
+    {
+      "stt": 783,
+      "name": "ASHURA",
+      "colorBg": "#804852",
+      "preview": null
+    },
+    {
+      "stt": 784,
+      "name": "SHINO",
+      "colorBg": "#9ba576",
+      "preview": null
+    },
+    {
+      "stt": 785,
+      "name": "KIBA",
+      "colorBg": "#9ba576",
+      "preview": null
+    },
+    {
+      "stt": 786,
+      "name": "INO",
+      "colorBg": "#a67bc7",
+      "preview": null
+    },
+    {
+      "stt": 787,
+      "name": "KONOHAMARU",
+      "colorBg": "#69a0aa",
+      "preview": null
+    },
+    {
+      "stt": 788,
+      "name": "CHOJI",
+      "colorBg": "#b24b4b",
+      "preview": null
+    },
+    {
+      "stt": 789,
+      "name": "SADARA",
+      "colorBg": "#c75449",
+      "preview": null
+    },
+    {
+      "stt": 790,
+      "name": "SUMIRE KAKEI",
+      "colorBg": "#9575bf",
+      "preview": null
+    },
+    {
+      "stt": 791,
+      "name": "HIMAWARI",
+      "colorBg": "#64ccea",
+      "preview": null
+    },
+    {
+      "stt": 792,
+      "name": "LAALA MANAKA",
+      "colorBg": "#d98be7",
+      "preview": null
+    },
+    {
+      "stt": 793,
+      "name": "HOJO SOPHIE",
+      "colorBg": "#ff72a6",
+      "preview": null
+    },
+    {
+      "stt": 794,
+      "name": "YUI YUMEKAWA",
+      "colorBg": "#f6cb8e",
+      "preview": null
+    },
+    {
+      "stt": 795,
+      "name": "YUME NIJINO",
+      "colorBg": "#d86f9f",
+      "preview": null
+    },
+    {
+      "stt": 796,
+      "name": "HOSHIMIYA ICHIGO",
+      "colorBg": "#f499b1",
+      "preview": null
+    },
+    {
+      "stt": 797,
+      "name": "KANZAKI MIZUKI",
+      "colorBg": "#d272eb",
+      "preview": null
+    },
+    {
+      "stt": 798,
+      "name": "MAHIRU KASUMI",
+      "colorBg": "#f28598",
+      "preview": null
+    },
+    {
+      "stt": 799,
+      "name": "KOHARU NANAKURA",
+      "colorBg": "#9a7ce1",
+      "preview": null
+    },
+    {
+      "stt": 800,
+      "name": "SHIBUKI RAN",
+      "colorBg": "#6368d6",
+      "preview": null
+    },
+    {
+      "stt": 801,
+      "name": "KIRIYA AOI",
+      "colorBg": "#6399d6",
+      "preview": null
+    },
+    {
+      "stt": 802,
+      "name": "BOY 8",
+      "colorBg": "#70b1df",
+      "preview": null
+    },
+    {
+      "stt": 803,
+      "name": "YULIY JIROV",
+      "colorBg": "#537187",
+      "preview": null
+    },
+    {
+      "stt": 804,
+      "name": "HAYASAKA AI",
+      "colorBg": "#6fc2e5",
+      "preview": null
+    },
+    {
+      "stt": 805,
+      "name": "CHIZURU",
+      "colorBg": "#8277cd",
+      "preview": null
+    },
+    {
+      "stt": 806,
+      "name": "YOSHINO",
+      "colorBg": "#61a1d3",
+      "preview": null
+    },
+    {
+      "stt": 807,
+      "name": "BLOOM",
+      "colorBg": "#4ac2c6",
+      "preview": null
+    },
+    {
+      "stt": 808,
+      "name": "STELLA",
+      "colorBg": "#f6c756",
+      "preview": null
+    },
+    {
+      "stt": 809,
+      "name": "FLORA",
+      "colorBg": "#f19dcd",
+      "preview": null
+    },
+    {
+      "stt": 810,
+      "name": "MUSA",
+      "colorBg": "#ef6297",
+      "preview": null
+    },
+    {
+      "stt": 811,
+      "name": "TECNA",
+      "colorBg": "#e463a6",
+      "preview": null
+    },
+    {
+      "stt": 812,
+      "name": "AISHA",
+      "colorBg": "#29ad6d",
+      "preview": null
+    },
+    {
+      "stt": 813,
+      "name": "DAPHNE",
+      "colorBg": "#e28ce5",
+      "preview": null
+    },
+    {
+      "stt": 814,
+      "name": "SHIKI RYOUGI",
+      "colorBg": "#6c7bda",
+      "preview": null
+    },
+    {
+      "stt": 815,
+      "name": "ONIGASAKI KAIKOKU",
+      "colorBg": "#6677a6",
+      "preview": null
+    },
+    {
+      "stt": 816,
+      "name": "ALUCARD",
+      "colorBg": "#7a8296",
+      "preview": null
+    },
+    {
+      "stt": 817,
+      "name": "TINA SPROUT",
+      "colorBg": "#6ba7ad",
+      "preview": null
+    },
+    {
+      "stt": 818,
+      "name": "TOHSAKA RIN",
+      "colorBg": "#eb4d73",
+      "preview": null
+    },
+    {
+      "stt": 819,
+      "name": "YUICHIRO HYAKUYA",
+      "colorBg": "#9cca53",
+      "preview": null
+    },
+    {
+      "stt": 820,
+      "name": "SNIPER MASK",
+      "colorBg": "#464c5c",
+      "preview": null
+    },
+    {
+      "stt": 821,
+      "name": "CHROLLO LUCILFER",
+      "colorBg": "#a01c1f",
+      "preview": null
+    },
+    {
+      "stt": 822,
+      "name": "AIKO CHAN",
+      "colorBg": "#f4cd65",
+      "preview": null
+    },
+    {
+      "stt": 823,
+      "name": "TAKUMI FUJIWARA",
+      "colorBg": "#378aba",
+      "preview": null
+    },
+    {
+      "stt": 824,
+      "name": "KEISUKE TAKAHASHI",
+      "colorBg": "#ce5d4e",
+      "preview": null
+    },
+    {
+      "stt": 825,
+      "name": "RYOSUKE TAKAHASHI",
+      "colorBg": "#c64545",
+      "preview": null
+    },
+    {
+      "stt": 826,
+      "name": "TAIRITSU",
+      "colorBg": "#7aaecc",
+      "preview": null
+    },
+    {
+      "stt": 827,
+      "name": "ISLA",
+      "colorBg": "#948aed",
+      "preview": null
+    },
+    {
+      "stt": 828,
+      "name": "RIN OKUMURA",
+      "colorBg": "#6a9be6",
+      "preview": null
+    },
+    {
+      "stt": 829,
+      "name": "KURO USAGI",
+      "colorBg": "#78b3f4",
+      "preview": null
+    },
+    {
+      "stt": 830,
+      "name": "HOUSHOU MARINE",
+      "colorBg": "#e04553",
+      "preview": null
+    },
+    {
+      "stt": 831,
+      "name": "OKITA SOUJI",
+      "colorBg": "#6ab9be",
+      "preview": null
+    },
+    {
+      "stt": 832,
+      "name": "YATOGAMI TOHKA",
+      "colorBg": "#ba92d8",
+      "preview": null
+    },
+    {
+      "stt": 833,
+      "name": "NENE YASHIRO",
+      "colorBg": "#ea484d",
+      "preview": null
+    },
+    {
+      "stt": 834,
+      "name": "MINAMOTO TERU",
+      "colorBg": "#0c192a",
+      "preview": null
+    },
+    {
+      "stt": 835,
+      "name": "SHINYA HIIRAGI",
+      "colorBg": "#e7b255",
+      "preview": null
+    },
+    {
+      "stt": 836,
+      "name": "BOKUTO",
+      "colorBg": "#f9df6e",
+      "preview": null
+    },
+    {
+      "stt": 837,
+      "name": "NICO ROBIN",
+      "colorBg": "#555b8f",
+      "preview": null
+    },
+    {
+      "stt": 838,
+      "name": "FRANKY",
+      "colorBg": "#f14945",
+      "preview": null
+    },
+    {
+      "stt": 839,
+      "name": "JINBEI",
+      "colorBg": "#61a1d3",
+      "preview": null
+    },
+    {
+      "stt": 840,
+      "name": "OTSUTSUKI INDRA",
+      "colorBg": "#901b1b",
+      "preview": null
+    },
+    {
+      "stt": 841,
+      "name": "BOY",
+      "colorBg": "#f8ca3e",
+      "preview": null
+    },
+    {
+      "stt": 842,
+      "name": "BOY",
+      "colorBg": "#9fc177",
+      "preview": null
+    },
+    {
+      "stt": 843,
+      "name": "BOY",
+      "colorBg": "#7cc9e6",
+      "preview": null
+    },
+    {
+      "stt": 844,
+      "name": "BOY",
+      "colorBg": "#3f4a8a",
+      "preview": null
+    },
+    {
+      "stt": 845,
+      "name": "BOY",
+      "colorBg": "#e2bc5f",
+      "preview": null
+    },
+    {
+      "stt": 846,
+      "name": "BOY",
+      "colorBg": "#345763",
+      "preview": null
+    },
+    {
+      "stt": 847,
+      "name": "BOY",
+      "colorBg": "#6b54c0",
+      "preview": null
+    },
+    {
+      "stt": 848,
+      "name": "BOY",
+      "colorBg": "#49a8e4",
+      "preview": null
+    },
+    {
+      "stt": 849,
+      "name": "BOY",
+      "colorBg": "#70b1df",
+      "preview": null
+    },
+    {
+      "stt": 850,
+      "name": "GIRL",
+      "colorBg": "#69bed0",
+      "preview": null
+    },
+    {
+      "stt": 851,
+      "name": "GIRL",
+      "colorBg": "#b09ec5",
+      "preview": null
+    },
+    {
+      "stt": 852,
+      "name": "GIRL",
+      "colorBg": "#8cbcc7",
+      "preview": null
+    },
+    {
+      "stt": 853,
+      "name": "GIRL",
+      "colorBg": "#d2c5b4",
+      "preview": null
+    },
+    {
+      "stt": 854,
+      "name": "GIRL",
+      "colorBg": "#f7cc6f",
+      "preview": null
+    },
+    {
+      "stt": 855,
+      "name": "GIRL",
+      "colorBg": "#3aa3c5",
+      "preview": null
+    },
+    {
+      "stt": 856,
+      "name": "GIRL",
+      "colorBg": "#939fa8",
+      "preview": null
+    },
+    {
+      "stt": 857,
+      "name": "GIRL",
+      "colorBg": "#ff5590",
+      "preview": null
+    },
+    {
+      "stt": 858,
+      "name": "GIRL",
+      "colorBg": "#ef4075",
+      "preview": null
+    },
+    {
+      "stt": 859,
+      "name": "GIRL",
+      "colorBg": "#7dabcc",
+      "preview": null
+    },
+    {
+      "stt": 860,
+      "name": "GIRL",
+      "colorBg": "#9d91c1",
+      "preview": null
+    },
+    {
+      "stt": 861,
+      "name": "ANYA-FORGER",
+      "colorBg": "#ff726b",
+      "preview": null
+    },
+    {
+      "stt": 862,
+      "name": "ANYA-FORGER",
+      "colorBg": "#f7a5aa",
+      "preview": null
+    },
+    {
+      "stt": 863,
+      "name": "ANYA-FORGER",
+      "colorBg": "#a9dbd5",
+      "preview": null
+    },
+    {
+      "stt": 864,
+      "name": "ANYA-FORGER",
+      "colorBg": "#59dce1",
+      "preview": null
+    },
+    {
+      "stt": 865,
+      "name": "ANYA-FORGER",
+      "colorBg": "#f8aeb3",
+      "preview": null
+    },
+    {
+      "stt": 866,
+      "name": "ANYA-FORGER",
+      "colorBg": "#ffa7a9",
+      "preview": null
+    },
+    {
+      "stt": 867,
+      "name": "ANYA-FORGER",
+      "colorBg": "#a3cdb3",
+      "preview": null
+    },
+    {
+      "stt": 868,
+      "name": "YOR-FORGER",
+      "colorBg": "#ef544e",
+      "preview": null
+    },
+    {
+      "stt": 869,
+      "name": "YOR-FORGER",
+      "colorBg": "#e03d3d",
+      "preview": null
+    },
+    {
+      "stt": 870,
+      "name": "YOR-FORGER",
+      "colorBg": "#e03d3d",
+      "preview": null
+    },
+    {
+      "stt": 871,
+      "name": "LOID-FORGER",
+      "colorBg": "#607867",
+      "preview": null
+    },
+    {
+      "stt": 872,
+      "name": "LOID-FORGER",
+      "colorBg": "#537462",
+      "preview": null
+    },
+    {
+      "stt": 873,
+      "name": "BECKY-BLACKBELL",
+      "colorBg": "#f8a9c0",
+      "preview": null
+    },
+    {
+      "stt": 874,
+      "name": "SHIROHA",
+      "colorBg": "#b5aafd",
+      "preview": null
+    },
+    {
+      "stt": 875,
+      "name": "HAMAGURI-HIROMI",
+      "colorBg": "#eac783",
+      "preview": null
+    },
+    {
+      "stt": 876,
+      "name": "SUZUNE-MIYAMA",
+      "colorBg": "#ffae75",
+      "preview": null
+    },
+    {
+      "stt": 877,
+      "name": "YUMEMI-RIAMU",
+      "colorBg": "#f9b8ce",
+      "preview": null
+    },
+    {
+      "stt": 878,
+      "name": "YUMEMI-RIAMU",
+      "colorBg": "#f9b8ce",
+      "preview": null
+    },
+    {
+      "stt": 879,
+      "name": "YUMEMI-RIAMU",
+      "colorBg": "#fb9ab4",
+      "preview": null
+    },
+    {
+      "stt": 880,
+      "name": "ASTA",
+      "colorBg": "#96ade0",
+      "preview": null
+    },
+    {
+      "stt": 881,
+      "name": "PELA",
+      "colorBg": "#8691fd",
+      "preview": null
+    },
+    {
+      "stt": 882,
+      "name": "JOSEE",
+      "colorBg": "#9cc2df",
+      "preview": null
+    },
+    {
+      "stt": 883,
+      "name": "JOSEE",
+      "colorBg": "#fec090",
+      "preview": null
+    },
+    {
+      "stt": 884,
+      "name": "NOZOMI-TOJO",
+      "colorBg": "#6b9ff9",
+      "preview": null
+    },
+    {
+      "stt": 885,
+      "name": "NOZOMI-TOJO",
+      "colorBg": "#9d82d4",
+      "preview": null
+    },
+    {
+      "stt": 886,
+      "name": "NOZOMI-TOJO",
+      "colorBg": "#6b9ff9",
+      "preview": null
+    },
+    {
+      "stt": 887,
+      "name": "YOU-WATANABE",
+      "colorBg": "#84c7e8",
+      "preview": null
+    },
+    {
+      "stt": 888,
+      "name": "YOU-WATANABE",
+      "colorBg": "#68cef6",
+      "preview": null
+    },
+    {
+      "stt": 889,
+      "name": "SATANICHIA-KURUMIZAWA-MCDOWELL",
+      "colorBg": "#f8676a",
+      "preview": null
+    },
+    {
+      "stt": 890,
+      "name": "SATANICHIA-KURUMIZAWA-MCDOWELL",
+      "colorBg": "#e57b82",
+      "preview": null
+    },
+    {
+      "stt": 891,
+      "name": "SHIKIMORI",
+      "colorBg": "#83bce1",
+      "preview": null
+    },
+    {
+      "stt": 892,
+      "name": "SHIKIMORI",
+      "colorBg": "#ec90d7",
+      "preview": null
+    },
+    {
+      "stt": 893,
+      "name": "SHIKIMORI",
+      "colorBg": "#62c7ed",
+      "preview": null
+    },
+    {
+      "stt": 894,
+      "name": "SHIKIMORI",
+      "colorBg": "#6090de",
+      "preview": null
+    },
+    {
+      "stt": 895,
+      "name": "KAMIYA",
+      "colorBg": "#92a3db",
+      "preview": null
+    },
+    {
+      "stt": 896,
+      "name": "MOTOMIYA-NAGISA",
+      "colorBg": "#6ddce6",
+      "preview": null
+    },
+    {
+      "stt": 897,
+      "name": "ADENELA",
+      "colorBg": "#ad8fca",
+      "preview": null
+    },
+    {
+      "stt": 898,
+      "name": "KAGAWA-RIN",
+      "colorBg": "#f99355",
+      "preview": null
+    },
+    {
+      "stt": 899,
+      "name": "KAGAWA-RIN",
+      "colorBg": "#e05755",
+      "preview": null
+    },
+    {
+      "stt": 900,
+      "name": "YAOTOME-URUSHI",
+      "colorBg": "#c895cb",
+      "preview": null
+    },
+    {
+      "stt": 901,
+      "name": "YAOTOME-URUSHI",
+      "colorBg": "#c4a8d3",
+      "preview": null
+    },
+    {
+      "stt": 902,
+      "name": "MAIKA-SAKURANOMIYA",
+      "colorBg": "#f29ea6",
+      "preview": null
+    },
+    {
+      "stt": 903,
+      "name": "MISMIS-KLASS",
+      "colorBg": "#9890f3",
+      "preview": null
+    },
+    {
+      "stt": 904,
+      "name": "KUROMI-SERIKA",
+      "colorBg": "#9197c0",
+      "preview": null
+    },
+    {
+      "stt": 905,
+      "name": "KUROMI-SERIKA",
+      "colorBg": "#908ec0",
+      "preview": null
+    },
+    {
+      "stt": 906,
+      "name": "SUNAOOKAMI-SHIROKO",
+      "colorBg": "#3ecde0",
+      "preview": null
+    },
+    {
+      "stt": 907,
+      "name": "SUNAOOKAMI-SHIROKO",
+      "colorBg": "#60d0ea",
+      "preview": null
+    },
+    {
+      "stt": 908,
+      "name": "TENDOU-ARISU",
+      "colorBg": "#66a9e7",
+      "preview": null
+    },
+    {
+      "stt": 909,
+      "name": "IGUSA-HARUKA",
+      "colorBg": "#a17fc8",
+      "preview": null
+    },
+    {
+      "stt": 910,
+      "name": "HINATA-TACHIBANA",
+      "colorBg": "#fcd07d",
+      "preview": null
+    },
+    {
+      "stt": 911,
+      "name": "JOHAN-LIEBERT",
+      "colorBg": "#8a7b6a",
+      "preview": null
+    },
+    {
+      "stt": 912,
+      "name": "JOHAN-LIEBERT",
+      "colorBg": "#b3a799",
+      "preview": null
+    },
+    {
+      "stt": 913,
+      "name": "INUI-SAJUNA",
+      "colorBg": "#e8a5a9",
+      "preview": null
+    },
+    {
+      "stt": 914,
+      "name": "MARIN-KITAGAWA",
+      "colorBg": "#fed799",
+      "preview": null
+    },
+    {
+      "stt": 915,
+      "name": "MARIN-KITAGAWA",
+      "colorBg": "#f4c57b",
+      "preview": null
+    },
+    {
+      "stt": 916,
+      "name": "KAZUKO-HASHIMA",
+      "colorBg": "#70c8e5",
+      "preview": null
+    },
+    {
+      "stt": 917,
+      "name": "KAZUKO-HASHIMA",
+      "colorBg": "#f0d492",
+      "preview": null
+    },
+    {
+      "stt": 918,
+      "name": "TEXAS",
+      "colorBg": "#8581d4",
+      "preview": null
+    },
+    {
+      "stt": 919,
+      "name": "LAPLAND",
+      "colorBg": "#839da1",
+      "preview": null
+    },
+    {
+      "stt": 920,
+      "name": "NIGHTMARE",
+      "colorBg": "#e7ce6d",
+      "preview": null
+    },
+    {
+      "stt": 921,
+      "name": "CH'EN",
+      "colorBg": "#7f8fe2",
+      "preview": null
+    },
+    {
+      "stt": 922,
+      "name": "NINYM-RALEI",
+      "colorBg": "#7c75c0",
+      "preview": null
+    },
+    {
+      "stt": 923,
+      "name": "KAMIJOU-TOUMA",
+      "colorBg": "#f7ac54",
+      "preview": null
+    },
+    {
+      "stt": 924,
+      "name": "INDEX-LIBRORUM-PROHIBITORUM",
+      "colorBg": "#6084e3",
+      "preview": null
+    },
+    {
+      "stt": 925,
+      "name": "MISAKA-MIKOTO",
+      "colorBg": "#dbb6a6",
+      "preview": null
+    },
+    {
+      "stt": 926,
+      "name": "ACCELERATOR",
+      "colorBg": "#878787",
+      "preview": null
+    },
+    {
+      "stt": 927,
+      "name": "HAMAZURA-SHIAGE",
+      "colorBg": "#c59766",
+      "preview": null
+    },
+    {
+      "stt": 928,
+      "name": "SAITAMA",
+      "colorBg": "#dfae4d",
+      "preview": null
+    },
+    {
+      "stt": 929,
+      "name": "SAITAMA",
+      "colorBg": "#dfae4d",
+      "preview": null
+    },
+    {
+      "stt": 930,
+      "name": "GENOS",
+      "colorBg": "#f4c555",
+      "preview": null
+    },
+    {
+      "stt": 931,
+      "name": "TATSUMAKI",
+      "colorBg": "#69c096",
+      "preview": null
+    },
+    {
+      "stt": 932,
+      "name": "SONIC",
+      "colorBg": "#8d6ac7",
+      "preview": null
+    },
+    {
+      "stt": 933,
+      "name": "ZERO-TWO",
+      "colorBg": "#e54d55",
+      "preview": null
+    },
+    {
+      "stt": 934,
+      "name": "ZERO-TWO",
+      "colorBg": "#f890bc",
+      "preview": null
+    },
+    {
+      "stt": 935,
+      "name": "ZERO-TWO",
+      "colorBg": "#ee7998",
+      "preview": null
+    },
+    {
+      "stt": 936,
+      "name": "ZERO-TWO",
+      "colorBg": "#e85f8a",
+      "preview": null
+    },
+    {
+      "stt": 937,
+      "name": "DESTINY",
+      "colorBg": "#c9465c",
+      "preview": null
+    },
+    {
+      "stt": 938,
+      "name": "DESTINY",
+      "colorBg": "#d83e49",
+      "preview": null
+    },
+    {
+      "stt": 939,
+      "name": "TAKT-ASAHINA",
+      "colorBg": "#539dd0",
+      "preview": null
+    },
+    {
+      "stt": 940,
+      "name": "ROXY",
+      "colorBg": "#e888cc",
+      "preview": null
+    },
+    {
+      "stt": 941,
+      "name": "KAMADO-TANJIRO",
+      "colorBg": "#4cba93",
+      "preview": null
+    },
+    {
+      "stt": 942,
+      "name": "KAMADO-TANJIRO",
+      "colorBg": "#3da6df",
+      "preview": null
+    },
+    {
+      "stt": 943,
+      "name": "KAMADO-TANJIRO",
+      "colorBg": "#40bf8c",
+      "preview": null
+    },
+    {
+      "stt": 944,
+      "name": "KAMADO-TANJIRO",
+      "colorBg": "#cc3636",
+      "preview": null
+    },
+    {
+      "stt": 945,
+      "name": "ZENITSU",
+      "colorBg": "#f0ae3d",
+      "preview": null
+    },
+    {
+      "stt": 946,
+      "name": "ZENITSU",
+      "colorBg": "#fdcd59",
+      "preview": null
+    },
+    {
+      "stt": 947,
+      "name": "INOSUKE",
+      "colorBg": "#438ada",
+      "preview": null
+    },
+    {
+      "stt": 948,
+      "name": "INOSUKE",
+      "colorBg": "#4c7ebd",
+      "preview": null
+    },
+    {
+      "stt": 949,
+      "name": "INOSUKE",
+      "colorBg": "#6493ea",
+      "preview": null
+    },
+    {
+      "stt": 950,
+      "name": "NEZUKO",
+      "colorBg": "#edb6b2",
+      "preview": null
+    },
+    {
+      "stt": 951,
+      "name": "NEZUKO",
+      "colorBg": "#ef7094",
+      "preview": null
+    },
+    {
+      "stt": 952,
+      "name": "NEZUKO",
+      "colorBg": "#f6afb2",
+      "preview": null
+    },
+    {
+      "stt": 953,
+      "name": "NEZUKO",
+      "colorBg": "#f6afb3",
+      "preview": null
+    },
+    {
+      "stt": 954,
+      "name": "NEZUKO",
+      "colorBg": "#f6afb2",
+      "preview": null
+    },
+    {
+      "stt": 955,
+      "name": "NEZUKO",
+      "colorBg": "#f997bf",
+      "preview": null
+    },
+    {
+      "stt": 956,
+      "name": "TOMIOKA-GIYUU",
+      "colorBg": "#039df6",
+      "preview": null
+    },
+    {
+      "stt": 957,
+      "name": "TOMIOKA-GIYUU",
+      "colorBg": "#6284e5",
+      "preview": null
+    },
+    {
+      "stt": 958,
+      "name": "KOCHO-SHINOBU",
+      "colorBg": "#837fcb",
+      "preview": null
+    },
+    {
+      "stt": 959,
+      "name": "KOCHO-SHINOBU",
+      "colorBg": "#9787db",
+      "preview": null
+    },
+    {
+      "stt": 960,
+      "name": "RENGOKU-KYOJURO",
+      "colorBg": "#f44b4b",
+      "preview": null
+    },
+    {
+      "stt": 961,
+      "name": "UZUI-TENGEN",
+      "colorBg": "#e84444",
+      "preview": null
+    },
+    {
+      "stt": 962,
+      "name": "UZUI-TENGEN",
+      "colorBg": "#9e525e",
+      "preview": null
+    },
+    {
+      "stt": 963,
+      "name": "TOKITO-MUICHIROU",
+      "colorBg": "#2c8889",
+      "preview": null
+    },
+    {
+      "stt": 964,
+      "name": "TOKITO-MUICHIROU",
+      "colorBg": "#61c3cc",
+      "preview": null
+    },
+    {
+      "stt": 965,
+      "name": "TOKITO-MUICHIROU",
+      "colorBg": "#86cfcc",
+      "preview": null
+    },
+    {
+      "stt": 966,
+      "name": "TOKITOU-MUICHIROU",
+      "colorBg": "#57dbd2",
+      "preview": null
+    },
+    {
+      "stt": 967,
+      "name": "TOKITOU-MUICHIROU",
+      "colorBg": "#76d5d0",
+      "preview": null
+    },
+    {
+      "stt": 968,
+      "name": "SENJURO-RENGOKU",
+      "colorBg": "#fac758",
+      "preview": null
+    },
+    {
+      "stt": 969,
+      "name": "MUZAN-2",
+      "colorBg": "#f45753",
+      "preview": null
+    },
+    {
+      "stt": 970,
+      "name": "MUZAN",
+      "colorBg": "#f45753",
+      "preview": null
+    },
+    {
+      "stt": 971,
+      "name": "KOKUSHIBOU",
+      "colorBg": "#7250c6",
+      "preview": null
+    },
+    {
+      "stt": 972,
+      "name": "KOKUSHIBOU",
+      "colorBg": "#a56ecd",
+      "preview": null
+    },
+    {
+      "stt": 973,
+      "name": "DOUMA",
+      "colorBg": "#ac3b4c",
+      "preview": null
+    },
+    {
+      "stt": 974,
+      "name": "AKAZA",
+      "colorBg": "#f6527f",
+      "preview": null
+    },
+    {
+      "stt": 975,
+      "name": "AKAZA",
+      "colorBg": "#e97d89",
+      "preview": null
+    },
+    {
+      "stt": 976,
+      "name": "DAKI",
+      "colorBg": "#f05894",
+      "preview": null
+    },
+    {
+      "stt": 977,
+      "name": "DAKI",
+      "colorBg": "#d33050",
+      "preview": null
+    },
+    {
+      "stt": 978,
+      "name": "GYUUTAROU",
+      "colorBg": "#879d7f",
+      "preview": null
+    },
+    {
+      "stt": 979,
+      "name": "GYUTAROU",
+      "colorBg": "#97b167",
+      "preview": null
+    },
+    {
+      "stt": 980,
+      "name": "SIESTA",
+      "colorBg": "#5f88b8",
+      "preview": null
+    },
+    {
+      "stt": 981,
+      "name": "HYOUKA-OREKI",
+      "colorBg": "#6f86d0",
+      "preview": null
+    },
+    {
+      "stt": 982,
+      "name": "HYOUKA-OREKI",
+      "colorBg": "#2b587e",
+      "preview": null
+    },
+    {
+      "stt": 983,
+      "name": "KANNA-KAMUI",
+      "colorBg": "#fd91ef",
+      "preview": null
+    },
+    {
+      "stt": 984,
+      "name": "MAI-SAKURAJIMA",
+      "colorBg": "#5872a3",
+      "preview": null
+    },
+    {
+      "stt": 985,
+      "name": "BAO",
+      "colorBg": "#6bb9dd",
+      "preview": null
+    },
+    {
+      "stt": 986,
+      "name": "MEL-YOZORA",
+      "colorBg": "#f9c23d",
+      "preview": null
+    },
+    {
+      "stt": 987,
+      "name": "MEL-YOZORA",
+      "colorBg": "#f9a73d",
+      "preview": null
+    },
+    {
+      "stt": 988,
+      "name": "SAKAMATA-CHLOE",
+      "colorBg": "#f36962",
+      "preview": null
+    },
+    {
+      "stt": 989,
+      "name": "SAKAMATA-CHLOE-2",
+      "colorBg": "#f28086",
+      "preview": null
+    },
+    {
+      "stt": 990,
+      "name": "SAKAMATA-CHLOE-3",
+      "colorBg": "#fd626b",
+      "preview": null
+    },
+    {
+      "stt": 991,
+      "name": "MORI-CALLIOPE",
+      "colorBg": "#f492bd",
+      "preview": null
+    },
+    {
+      "stt": 992,
+      "name": "GURA",
+      "colorBg": "#6aace3",
+      "preview": null
+    },
+    {
+      "stt": 993,
+      "name": "GURA",
+      "colorBg": "#76c3f2",
+      "preview": null
+    },
+    {
+      "stt": 994,
+      "name": "GURA",
+      "colorBg": "#6fb8e0",
+      "preview": null
+    },
+    {
+      "stt": 995,
+      "name": "OOZORA-SUBARU",
+      "colorBg": "#3cb3d1",
+      "preview": null
+    },
+    {
+      "stt": 996,
+      "name": "KUKI-SHINOBU",
+      "colorBg": "#b8cd8f",
+      "preview": null
+    },
+    {
+      "stt": 997,
+      "name": "YELAN",
+      "colorBg": "#616ff8",
+      "preview": null
+    },
+    {
+      "stt": 998,
+      "name": "YOIMIYA",
+      "colorBg": "#e3684d",
+      "preview": null
+    },
+    {
+      "stt": 999,
+      "name": "YOIMIYA",
+      "colorBg": "#e6594a",
+      "preview": null
+    },
+    {
+      "stt": 1000,
+      "name": "SHENHE",
+      "colorBg": "#7b6dd4",
+      "preview": null
+    },
+    {
+      "stt": 1001,
+      "name": "SHENHE",
+      "colorBg": "#77b1c2",
+      "preview": null
+    },
+    {
+      "stt": 1002,
+      "name": "SAYU",
+      "colorBg": "#91c9fd",
+      "preview": null
+    },
+    {
+      "stt": 1003,
+      "name": "HUTAO",
+      "colorBg": "#d34f42",
+      "preview": null
+    },
+    {
+      "stt": 1004,
+      "name": "RAIDEN-SHOGUN",
+      "colorBg": "#7971b2",
+      "preview": null
+    },
+    {
+      "stt": 1005,
+      "name": "CHONGYUN",
+      "colorBg": "#50b8e5",
+      "preview": null
+    },
+    {
+      "stt": 1006,
+      "name": "TERI-TERI",
+      "colorBg": "#c8a0ca",
+      "preview": null
+    },
+    {
+      "stt": 1007,
+      "name": "BRONYA",
+      "colorBg": "#5785c9",
+      "preview": null
+    },
+    {
+      "stt": 1008,
+      "name": "FUHUA",
+      "colorBg": "#d8494b",
+      "preview": null
+    },
+    {
+      "stt": 1009,
+      "name": "MOBIUS",
+      "colorBg": "#abb661",
+      "preview": null
+    },
+    {
+      "stt": 1010,
+      "name": "KOMI-SHOUKO",
+      "colorBg": "#7b77bd",
+      "preview": null
+    },
+    {
+      "stt": 1011,
+      "name": "OMOHARU-NAKANAKA",
+      "colorBg": "#db6284",
+      "preview": null
+    },
+    {
+      "stt": 1012,
+      "name": "GASAI-YUNO",
+      "colorBg": "#7179cf",
+      "preview": null
+    },
+    {
+      "stt": 1013,
+      "name": "YUNO-GASAI",
+      "colorBg": "#eba3bb",
+      "preview": null
+    },
+    {
+      "stt": 1014,
+      "name": "YUNO-GASAI",
+      "colorBg": "#ec9fb9",
+      "preview": null
+    },
+    {
+      "stt": 1015,
+      "name": "VALAC-CLARA",
+      "colorBg": "#5fac30",
+      "preview": null
+    },
+    {
+      "stt": 1016,
+      "name": "ASMODEUS-ALICE",
+      "colorBg": "#de97a5",
+      "preview": null
+    },
+    {
+      "stt": 1017,
+      "name": "EMIYA",
+      "colorBg": "#ab9b9b",
+      "preview": null
+    },
+    {
+      "stt": 1018,
+      "name": "KISARA",
+      "colorBg": "#b2a0d5",
+      "preview": null
+    },
+    {
+      "stt": 1019,
+      "name": "IZAYOI-MIKU",
+      "colorBg": "#a6acdf",
+      "preview": null
+    },
+    {
+      "stt": 1020,
+      "name": "IZAYOI-MIKU",
+      "colorBg": "#b8baed",
+      "preview": null
+    },
+    {
+      "stt": 1021,
+      "name": "IZAYOI-MIKU",
+      "colorBg": "#c9cbfc",
+      "preview": null
+    },
+    {
+      "stt": 1022,
+      "name": "SHIDO-ITSUKA",
+      "colorBg": "#4d5190",
+      "preview": null
+    },
+    {
+      "stt": 1023,
+      "name": "KURUMI",
+      "colorBg": "#ed4032",
+      "preview": null
+    },
+    {
+      "stt": 1024,
+      "name": "BEELZEBUB",
+      "colorBg": "#bc4d53",
+      "preview": null
+    },
+    {
+      "stt": 1025,
+      "name": "ANKO-KITASHIRAKAWA",
+      "colorBg": "#71a7d4",
+      "preview": null
+    },
+    {
+      "stt": 1026,
+      "name": "RIKKA",
+      "colorBg": "#9777b6",
+      "preview": null
+    },
+    {
+      "stt": 1027,
+      "name": "SHICHIMIYA",
+      "colorBg": "#f8879e",
+      "preview": null
+    },
+    {
+      "stt": 1028,
+      "name": "RIMURU-TEMPEST",
+      "colorBg": "#69a6dd",
+      "preview": null
+    },
+    {
+      "stt": 1029,
+      "name": "RIMURU-TEMPEST",
+      "colorBg": "#7698bf",
+      "preview": null
+    },
+    {
+      "stt": 1030,
+      "name": "VELZARD",
+      "colorBg": "#64a8ef",
+      "preview": null
+    },
+    {
+      "stt": 1031,
+      "name": "VELGRYND",
+      "colorBg": "#ecba66",
+      "preview": null
+    },
+    {
+      "stt": 1032,
+      "name": "SATURO-GOJO",
+      "colorBg": "#757bfc",
+      "preview": null
+    },
+    {
+      "stt": 1033,
+      "name": "SATURO-GOJO",
+      "colorBg": "#e094e3",
+      "preview": null
+    },
+    {
+      "stt": 1034,
+      "name": "SUKUNA",
+      "colorBg": "#e87e98",
+      "preview": null
+    },
+    {
+      "stt": 1035,
+      "name": "KAMO-NORITOSHI",
+      "colorBg": "#6c75b4",
+      "preview": null
+    },
+    {
+      "stt": 1036,
+      "name": "NOELLE",
+      "colorBg": "#9144cc",
+      "preview": null
+    },
+    {
+      "stt": 1037,
+      "name": "KIRITO",
+      "colorBg": "#6cc9da",
+      "preview": null
+    },
+    {
+      "stt": 1038,
+      "name": "ASUNA",
+      "colorBg": "#f3c483",
+      "preview": null
+    },
+    {
+      "stt": 1039,
+      "name": "ASUNA-SUMMER",
+      "colorBg": "#ffa55e",
+      "preview": null
+    },
+    {
+      "stt": 1040,
+      "name": "ASUNA-YUUKI-ALO",
+      "colorBg": "#79c6f4",
+      "preview": null
+    },
+    {
+      "stt": 1041,
+      "name": "MIDORIYA",
+      "colorBg": "#34b4a6",
+      "preview": null
+    },
+    {
+      "stt": 1042,
+      "name": "TODOROKI-SHOUTO",
+      "colorBg": "#575468",
+      "preview": null
+    },
+    {
+      "stt": 1043,
+      "name": "BAKUGOU",
+      "colorBg": "#fb973f",
+      "preview": null
+    },
+    {
+      "stt": 1044,
+      "name": "BAKUGOU",
+      "colorBg": "#254a38",
+      "preview": null
+    },
+    {
+      "stt": 1045,
+      "name": "AIZAWA",
+      "colorBg": "#375d48",
+      "preview": null
+    },
+    {
+      "stt": 1046,
+      "name": "AOYAMA",
+      "colorBg": "#6b9ff9",
+      "preview": null
+    },
+    {
+      "stt": 1047,
+      "name": "NATSUKI",
+      "colorBg": "#f089ae",
+      "preview": null
+    },
+    {
+      "stt": 1048,
+      "name": "NAKANO-ICHIKA",
+      "colorBg": "#fca4a5",
+      "preview": null
+    },
+    {
+      "stt": 1049,
+      "name": "NAKANO-ICHIKA",
+      "colorBg": "#b4d779",
+      "preview": null
+    },
+    {
+      "stt": 1050,
+      "name": "NAKANO-ICHIKA",
+      "colorBg": "#847cd9",
+      "preview": null
+    },
+    {
+      "stt": 1051,
+      "name": "NAKANO-MIKU",
+      "colorBg": "#8acef2",
+      "preview": null
+    },
+    {
+      "stt": 1052,
+      "name": "NAKANO-MIKU",
+      "colorBg": "#9ad69c",
+      "preview": null
+    },
+    {
+      "stt": 1053,
+      "name": "NAKANO-MIKU",
+      "colorBg": "#fbb5b4",
+      "preview": null
+    },
+    {
+      "stt": 1054,
+      "name": "YOSUBA",
+      "colorBg": "#f59e76",
+      "preview": null
+    },
+    {
+      "stt": 1055,
+      "name": "EREN-JAEGER",
+      "colorBg": "#7c898e",
+      "preview": null
+    },
+    {
+      "stt": 1056,
+      "name": "EREN-JAEGER",
+      "colorBg": "#69657a",
+      "preview": null
+    },
+    {
+      "stt": 1057,
+      "name": "EREN-JAEGER",
+      "colorBg": "#75bab0",
+      "preview": null
+    },
+    {
+      "stt": 1058,
+      "name": "ERWIN-SMITH",
+      "colorBg": "#87ad6d",
+      "preview": null
+    },
+    {
+      "stt": 1059,
+      "name": "JEAN-KIRSTEIN",
+      "colorBg": "#959f7e",
+      "preview": null
+    },
+    {
+      "stt": 1060,
+      "name": "SAKURA-AIRI",
+      "colorBg": "#ff829f",
+      "preview": null
+    },
+    {
+      "stt": 1061,
+      "name": "SAKURA-AIRI",
+      "colorBg": "#faa0cf",
+      "preview": null
+    },
+    {
+      "stt": 1062,
+      "name": "KIYOTAKA-AYANOKOJI",
+      "colorBg": "#f86f7d",
+      "preview": null
+    },
+    {
+      "stt": 1063,
+      "name": "KIYOTAKA-AYANOKOJI",
+      "colorBg": "#ae3758",
+      "preview": null
+    },
+    {
+      "stt": 1064,
+      "name": "HATSUME-MIKU",
+      "colorBg": "#49cdd9",
+      "preview": null
+    },
+    {
+      "stt": 1065,
+      "name": "HATSUME-MIKU",
+      "colorBg": "#7dcedb",
+      "preview": null
+    },
+    {
+      "stt": 1066,
+      "name": "KARMA",
+      "colorBg": "#f36160",
+      "preview": null
+    },
+    {
+      "stt": 1067,
+      "name": "KARMA",
+      "colorBg": "#cb5251",
+      "preview": null
+    },
+    {
+      "stt": 1068,
+      "name": "REM",
+      "colorBg": "#94c4f7",
+      "preview": null
+    },
+    {
+      "stt": 1069,
+      "name": "REM",
+      "colorBg": "#81abf1",
+      "preview": null
+    },
+    {
+      "stt": 1070,
+      "name": "REM",
+      "colorBg": "#81abf2",
+      "preview": null
+    },
+    {
+      "stt": 1071,
+      "name": "RAM",
+      "colorBg": "#da94e2",
+      "preview": null
+    },
+    {
+      "stt": 1072,
+      "name": "RAM",
+      "colorBg": "#ff8ce1",
+      "preview": null
+    },
+    {
+      "stt": 1073,
+      "name": "REIJI",
+      "colorBg": "#d63f3f",
+      "preview": null
+    },
+    {
+      "stt": 1074,
+      "name": "DORAEMON",
+      "colorBg": "#3bdbf8",
+      "preview": null
+    },
+    {
+      "stt": 1075,
+      "name": "DORAEMON",
+      "colorBg": "#45baeb",
+      "preview": null
+    },
+    {
+      "stt": 1076,
+      "name": "REIMI",
+      "colorBg": "#d489af",
+      "preview": null
+    },
+    {
+      "stt": 1077,
+      "name": "ABBACCHIO",
+      "colorBg": "#955dda",
+      "preview": null
+    },
+    {
+      "stt": 1078,
+      "name": "ABBACCHIO",
+      "colorBg": "#955dda",
+      "preview": null
+    },
+    {
+      "stt": 1079,
+      "name": "CONAN",
+      "colorBg": "#dd685c",
+      "preview": null
+    },
+    {
+      "stt": 1080,
+      "name": "CONAN",
+      "colorBg": "#a47569",
+      "preview": null
+    },
+    {
+      "stt": 1081,
+      "name": "GIN",
+      "colorBg": "#cf3434",
+      "preview": null
+    },
+    {
+      "stt": 1082,
+      "name": "TAKEMICHI",
+      "colorBg": "#7d8c90",
+      "preview": null
+    },
+    {
+      "stt": 1083,
+      "name": "TAKEMICHI",
+      "colorBg": "#ebbc6b",
+      "preview": null
+    },
+    {
+      "stt": 1084,
+      "name": "TAKEMICHI",
+      "colorBg": "#50a7d9",
+      "preview": null
+    },
+    {
+      "stt": 1085,
+      "name": "MANJIRO-SANO-[MIKEY]",
+      "colorBg": "#6fa6c0",
+      "preview": null
+    },
+    {
+      "stt": 1086,
+      "name": "MANJIRO-SANO-[MIKEY]",
+      "colorBg": "#c5b0cd",
+      "preview": null
+    },
+    {
+      "stt": 1087,
+      "name": "EMMA-SANO",
+      "colorBg": "#68a8cd",
+      "preview": null
+    },
+    {
+      "stt": 1088,
+      "name": "KEN-RYUGUJI-[DRAKEN]",
+      "colorBg": "#8d8d9c",
+      "preview": null
+    },
+    {
+      "stt": 1089,
+      "name": "KEN-RYUGUJI-[DRAKEN]",
+      "colorBg": "#2d4953",
+      "preview": null
+    },
+    {
+      "stt": 1090,
+      "name": "CHIFUYU-MATSUNO",
+      "colorBg": "#243231",
+      "preview": null
+    },
+    {
+      "stt": 1091,
+      "name": "CHIFUYU-MATSUNO",
+      "colorBg": "#f37a31",
+      "preview": null
+    },
+    {
+      "stt": 1092,
+      "name": "KEISUKE-BAJI",
+      "colorBg": "#dd3a40",
+      "preview": null
+    },
+    {
+      "stt": 1093,
+      "name": "HAITANI-RAN",
+      "colorBg": "#6b687f",
+      "preview": null
+    },
+    {
+      "stt": 1094,
+      "name": "HAITANI-RINDOU",
+      "colorBg": "#8ca4c5",
+      "preview": null
+    },
+    {
+      "stt": 1095,
+      "name": "SENJU-KAWARAGI",
+      "colorBg": "#59bfe1",
+      "preview": null
+    },
+    {
+      "stt": 1096,
+      "name": "SENJU-KAWARAGI",
+      "colorBg": "#5a69e0",
+      "preview": null
+    },
+    {
+      "stt": 1097,
+      "name": "SENJU-KAWARAGI",
+      "colorBg": "#c767ef",
+      "preview": null
+    },
+    {
+      "stt": 1098,
+      "name": "SENJU-KAWARAGI",
+      "colorBg": "#9099be",
+      "preview": null
+    },
+    {
+      "stt": 1099,
+      "name": "KAZUTORA-HANEMIYA",
+      "colorBg": "#f3ba31",
+      "preview": null
+    },
+    {
+      "stt": 1100,
+      "name": "SHUJI-HANMA",
+      "colorBg": "#ba4333",
+      "preview": null
+    },
+    {
+      "stt": 1101,
+      "name": "HAKKAI-SHIBA",
+      "colorBg": "#6e7ca2",
+      "preview": null
+    },
+    {
+      "stt": 1102,
+      "name": "GRANOLA",
+      "colorBg": "#58bc8d",
+      "preview": null
+    },
+    {
+      "stt": 1103,
+      "name": "NATSU",
+      "colorBg": "#c82f2a",
+      "preview": null
+    },
+    {
+      "stt": 1104,
+      "name": "LUCY",
+      "colorBg": "#48a8ef",
+      "preview": null
+    },
+    {
+      "stt": 1105,
+      "name": "LUCY",
+      "colorBg": "#767ee5",
+      "preview": null
+    },
+    {
+      "stt": 1106,
+      "name": "LUFFY",
+      "colorBg": "#ffd146",
+      "preview": null
+    },
+    {
+      "stt": 1107,
+      "name": "LUFFY-GEAR-4",
+      "colorBg": "#e82b2b",
+      "preview": null
+    },
+    {
+      "stt": 1108,
+      "name": "ZORO",
+      "colorBg": "#42a12f",
+      "preview": null
+    },
+    {
+      "stt": 1109,
+      "name": "ZORO",
+      "colorBg": "#65ad42",
+      "preview": null
+    },
+    {
+      "stt": 1110,
+      "name": "SANJI",
+      "colorBg": "#4d6aab",
+      "preview": null
+    },
+    {
+      "stt": 1111,
+      "name": "VINSMOKE-ICHIJI",
+      "colorBg": "#d23131",
+      "preview": null
+    },
+    {
+      "stt": 1112,
+      "name": "MACRO",
+      "colorBg": "#9e5ed0",
+      "preview": null
+    },
+    {
+      "stt": 1113,
+      "name": "HATAKE-KAKASHI",
+      "colorBg": "#626b57",
+      "preview": null
+    },
+    {
+      "stt": 1114,
+      "name": "HATAKE-KAKASHI",
+      "colorBg": "#acbf9b",
+      "preview": null
+    },
+    {
+      "stt": 1115,
+      "name": "HATAKE-KAKASHI",
+      "colorBg": "#8da884",
+      "preview": null
+    },
+    {
+      "stt": 1116,
+      "name": "HATAKE-KAKASHI",
+      "colorBg": "#899e77",
+      "preview": null
+    },
+    {
+      "stt": 1117,
+      "name": "HARUNO-SAKURA",
+      "colorBg": "#ffa294",
+      "preview": null
+    },
+    {
+      "stt": 1118,
+      "name": " UCHIHA-MADARA",
+      "colorBg": "#a3645d",
+      "preview": null
+    },
+    {
+      "stt": 1119,
+      "name": "UCHIHA-MADARA",
+      "colorBg": "#d35963",
+      "preview": null
+    },
+    {
+      "stt": 1120,
+      "name": "YAMATO",
+      "colorBg": "#8fa380",
+      "preview": null
+    },
+    {
+      "stt": 1121,
+      "name": "ASHURA-OTSUTSUKI",
+      "colorBg": "#4a5187",
+      "preview": null
+    },
+    {
+      "stt": 1122,
+      "name": "HAGOROMO",
+      "colorBg": "#acbf9b",
+      "preview": null
+    },
+    {
+      "stt": 1123,
+      "name": "KAGUYA",
+      "colorBg": "#996bff",
+      "preview": null
+    },
+    {
+      "stt": 1124,
+      "name": "SINESTRIA",
+      "colorBg": "#ce4147",
+      "preview": null
+    },
+    {
+      "stt": 1125,
+      "name": "HIBIKI",
+      "colorBg": "#66a9ec",
+      "preview": null
+    },
+    {
+      "stt": 1126,
+      "name": "NAGATORO",
+      "colorBg": "#6574cf",
+      "preview": null
+    },
+    {
+      "stt": 1127,
+      "name": "RINU",
+      "colorBg": "#fd97ab",
+      "preview": null
+    },
+    {
+      "stt": 1128,
+      "name": "SAKURA-KINOMOTO",
+      "colorBg": "#fd97ab",
+      "preview": null
+    },
+    {
+      "stt": 1129,
+      "name": "BEELZEBUB",
+      "colorBg": "#867bc4",
+      "preview": null
+    },
+    {
+      "stt": 1130,
+      "name": "RENTARO-SATOMI",
+      "colorBg": "#5d64a0",
+      "preview": null
+    },
+    {
+      "stt": 1131,
+      "name": "FERID-BATHOR",
+      "colorBg": "#db4c48",
+      "preview": null
+    },
+    {
+      "stt": 1132,
+      "name": "YUICHIRO-HYAKUYA",
+      "colorBg": "#9cca54",
+      "preview": null
+    },
+    {
+      "stt": 1133,
+      "name": "YOICHI-SAOTOME",
+      "colorBg": "#adca50",
+      "preview": null
+    },
+    {
+      "stt": 1134,
+      "name": "HIKARI",
+      "colorBg": "#e6b7bc",
+      "preview": null
+    },
+    {
+      "stt": 1135,
+      "name": "SAYA",
+      "colorBg": "#a0d4db",
+      "preview": null
+    },
+    {
+      "stt": 1136,
+      "name": "ISLA",
+      "colorBg": "#8d80d0",
+      "preview": null
+    },
+    {
+      "stt": 1137,
+      "name": "ISLA",
+      "colorBg": "#7e6dd7",
+      "preview": null
+    },
+    {
+      "stt": 1138,
+      "name": "RIN-OKUMURA",
+      "colorBg": "#50a3f4",
+      "preview": null
+    },
+    {
+      "stt": 1139,
+      "name": "CHIHIRO-FUJISAKI",
+      "colorBg": "#868e68",
+      "preview": null
+    },
+    {
+      "stt": 1140,
+      "name": "SATSUKI-MOMOI",
+      "colorBg": "#86e2b5",
+      "preview": null
+    },
+    {
+      "stt": 1141,
+      "name": "MARY-SAOTOME",
+      "colorBg": "#c14b54",
+      "preview": null
+    },
+    {
+      "stt": 1142,
+      "name": "MARY-SAOTOME",
+      "colorBg": "#ffe673",
+      "preview": null
+    },
+    {
+      "stt": 1143,
+      "name": "MARY-SAOTOME",
+      "colorBg": "#e24140",
+      "preview": null
+    },
+    {
+      "stt": 1144,
+      "name": "MIKEY",
+      "colorBg": "#8da83f",
+      "preview": null
+    },
+    {
+      "stt": 1145,
+      "name": "SHIROGANE-MIYUKI",
+      "colorBg": "#e8a563",
+      "preview": null
+    },
+    {
+      "stt": 1146,
+      "name": "CADIS-ETRAMA-DI-RAIZEL",
+      "colorBg": "#9b1418",
+      "preview": null
+    },
+    {
+      "stt": 1147,
+      "name": "ASUKA-TANAKA",
+      "colorBg": "#6db2e3",
+      "preview": null
+    },
+    {
+      "stt": 1148,
+      "name": "DRACO-MALFOY",
+      "colorBg": "#34ab61",
+      "preview": null
+    },
+    {
+      "stt": 1149,
+      "name": "MENHERA-CHAN",
+      "colorBg": "#f88c93",
+      "preview": null
+    },
+    {
+      "stt": 1150,
+      "name": "TANAKA",
+      "colorBg": "#b38d70",
+      "preview": null
+    },
+    {
+      "stt": 1151,
+      "name": "SHOPHIE-HATTER",
+      "colorBg": "#5492b9",
+      "preview": null
+    },
+    {
+      "stt": 1152,
+      "name": "NOÉ-ARCHIVISTE",
+      "colorBg": "#9892d1",
+      "preview": null
+    },
+    {
+      "stt": 1153,
+      "name": "MIKO-YOTSUYA",
+      "colorBg": "#fbdb88",
+      "preview": null
+    },
+    {
+      "stt": 1154,
+      "name": "MIKO-YOTSUYA",
+      "colorBg": "#f7c35e",
+      "preview": null
+    },
+    {
+      "stt": 1155,
+      "name": "KANEKI-KEN",
+      "colorBg": "#f9201f",
+      "preview": null
+    },
+    {
+      "stt": 1156,
+      "name": "KANEKI-KEN",
+      "colorBg": "#f9201f",
+      "preview": null
+    },
+    {
+      "stt": 1157,
+      "name": "SUZUYA-JUUZOU",
+      "colorBg": "#c43432",
+      "preview": null
+    },
+    {
+      "stt": 1158,
+      "name": "RIDER",
+      "colorBg": "#f479d4",
+      "preview": null
+    },
+    {
+      "stt": 1159,
+      "name": "ARCHER",
+      "colorBg": "#a5373c",
+      "preview": null
+    },
+    {
+      "stt": 1160,
+      "name": "LANCER",
+      "colorBg": "#4c85d2",
+      "preview": null
+    },
+    {
+      "stt": 1161,
+      "name": "RAVEN",
+      "colorBg": "#855fee",
+      "preview": null
+    },
+    {
+      "stt": 1162,
+      "name": "AYANO-AISHI",
+      "colorBg": "#5065ba",
+      "preview": null
+    },
+    {
+      "stt": 1163,
+      "name": "METTATON",
+      "colorBg": "#ff85b8",
+      "preview": null
+    },
+    {
+      "stt": 1164,
+      "name": "SHIRO",
+      "colorBg": "#e16a92",
+      "preview": null
+    },
+    {
+      "stt": 1165,
+      "name": "MAO-AMATSUKA",
+      "colorBg": "#f28258",
+      "preview": null
+    },
+    {
+      "stt": 1166,
+      "name": "MAHIRU",
+      "colorBg": "#fac15e",
+      "preview": null
+    },
+    {
+      "stt": 1167,
+      "name": "TSUBAKI",
+      "colorBg": "#d24c4c",
+      "preview": null
+    },
+    {
+      "stt": 1168,
+      "name": "ELAINA",
+      "colorBg": "#49a8e4",
+      "preview": null
+    },
+    {
+      "stt": 1169,
+      "name": "UMARU",
+      "colorBg": "#ffba92",
+      "preview": null
+    },
+    {
+      "stt": 1170,
+      "name": "UMARU-DOMA",
+      "colorBg": "#f28459",
+      "preview": null
+    },
+    {
+      "stt": 1171,
+      "name": "UMARU-DOMA",
+      "colorBg": "#f88a54",
+      "preview": null
+    },
+    {
+      "stt": 1172,
+      "name": "TAIHEI-DOMA",
+      "colorBg": "#748bbd",
+      "preview": null
+    },
+    {
+      "stt": 1173,
+      "name": "VIOLET-EVERGARDEN",
+      "colorBg": "#71a7d4",
+      "preview": null
+    },
+    {
+      "stt": 1174,
+      "name": "VIOLET-EVERGARDEN",
+      "colorBg": "#8b8ac3",
+      "preview": null
+    },
+    {
+      "stt": 1175,
+      "name": "VIOLET-EVERGARDEN",
+      "colorBg": "#8b8ac3",
+      "preview": null
+    },
+    {
+      "stt": 1176,
+      "name": "HESTIA",
+      "colorBg": "#70a8e1",
+      "preview": null
+    },
+    {
+      "stt": 1177,
+      "name": "ANOS-VOLDIGOAD",
+      "colorBg": "#57668b",
+      "preview": null
+    },
+    {
+      "stt": 1178,
+      "name": "REI-HINO",
+      "colorBg": "#9457df",
+      "preview": null
+    },
+    {
+      "stt": 1179,
+      "name": "EMMA",
+      "colorBg": "#fb9245",
+      "preview": null
+    },
+    {
+      "stt": 1180,
+      "name": "SAYU-OGIWARA",
+      "colorBg": "#8b8ac3",
+      "preview": null
+    },
+    {
+      "stt": 1181,
+      "name": "SHIRO",
+      "colorBg": "#eba4ff",
+      "preview": null
+    },
+    {
+      "stt": 1182,
+      "name": "SHIRO",
+      "colorBg": "#eba4ff",
+      "preview": null
+    }
+  ],
+  "author": {
+    "name": "NTKhang",
+    "contact": "https://facebook.com/100010382497517"
+  }
+}
